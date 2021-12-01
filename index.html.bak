@@ -56,12 +56,15 @@
               target="_blank">University of Michigan, Ann Arbor</a>, working
             with <a href="http://www.yelabs.net/" target="_blank">Dr. Jieping
               Ye</a> and <a href="https://traffic.engin.umich.edu/" target="_blank">Dr.
-              Henry Liu</a>. I study computer vision and related problems in
-            remote sensing, autonomous driving, and video games. <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;hl=en"
+              Henry Liu</a>. I received my Ph.D. degree and B.S. degree from
+            Beihang University in 2018 and 2013. I study computer vision and
+            related problems in remote sensing, autonomous driving, and video
+            games. <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;hl=en"
               target="_blank">[Google Scholar Profile]</a> | <a href="https://github.com/jiupinjia"
               target="_blank">[Github Profile] |</a> Email: zzhengxi [at] umich
             [dot] edu.<br>
             <p></p>
+            <p>NEW (12/2021): One paper accepted to AAAI 2022<em>.</em></p>
             <p>NEW (08/2021): One paper accepted to ICCV 2021, oral
               presentation. (<em> </em><a href="https://arxiv.org/pdf/2103.12957.pdf"
                 target="_blank">[Preprint]</a> )</p>
@@ -439,6 +442,18 @@
               <br>
               <div class="row">
                 <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                    src="zzx_gallery/thumb-SSMCT.gif"></div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p> Yinglin Duan, Yue Lin, Zhengxia Zou* (*Corresponding
+                    author), Yi Yuan, Zhehui Qian, Bohan Zhang. Single-Shot
+                    Motion Completion with Transformers.&nbsp;<em><i>AAAI
+                        Conference on Artificial Intelligence (AAAI) 2022</i></em><em><i><em></em></i><em></em><em></em>.</em></p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
                     src="zzx_gallery/thumb-autostereogram.gif"></div>
                 <div class="col-sm-9">
                   <p></p>
@@ -523,19 +538,6 @@
                       on Computer Vision (ICCV) 2019.</i> <a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html"
                       target="_blank">[PDF]</a> <a href="https://github.com/jiupinjia/CloudMattingGAN"
                       target="_blank">[Github]</a></p>
-                </div>
-              </div>
-              <br>
-              <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
-                    src="zzx_gallery/thumb-SSMCT.gif"></div>
-                <div class="col-sm-9">
-                  <p></p>
-                  <p> Yinglin Duan*, Tianyang Shi*, Zhengxia Zou* (*Equal
-                    contribution), Yenan Lin, Zhehui Qian, Bohan Zhang, and Yi
-                    Yuan. Single-Shot Motion Completion with Transformer. <em>CoRR,
-                      abs/2103.00776, 2021. </em><a href="https://arxiv.org/pdf/2103.00776.pdf"
-                      target="_blank">[PDF]</a></p>
                 </div>
               </div>
               <br>
@@ -675,7 +677,10 @@
               <div class="panel-heading"><b>Guest Editor</b> </div>
               <div class="panel-body">
                 <ul>
-                  <li>Special Issue on Remote Sensing (IF=4.118): "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/CIALT_RS"
+                  <li>Special Issue on Remote Sensing (IF=4.848): "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/RS_Image_Quality_Improvement"
+                      target="_blank">Advanced Learning Techniques for Remote
+                      Sensing Image Quality Improvement</a>".</li>
+                  <li>Special Issue on Remote Sensing (IF=4.848): "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/CIALT_RS"
                       target="_blank">Computational Intelligence and Advanced
                       Learning Techniques in Remote Sensing</a>".</li>
                 </ul>
