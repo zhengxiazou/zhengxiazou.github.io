@@ -70,13 +70,14 @@
                 target="_blank">[Preprint]</a> )</p>
             <p>NEW (06/2021): <a href="https://jiupinjia.github.io/neuralpainter/"
                 target="_blank">Stylized Neural Painting</a> launched as a new
-              feature in two AI photo editors (<span style="color: #23527c;"><span
-                  style="color: #333333;">REMINI </span></span><a href="https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international&amp;hl=en_US&amp;gl=US"
+              feature in two AI photo editors: <span style="color: #23527c;"><span
+                  style="color: #333333;">REMINI</span></span><span style="color: #23527c;"><span
+                  style="color: #333333;"> ( </span></span><a href="https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international&amp;hl=en_US&amp;gl=US"
                 target="_blank">Google Play</a> | <a href="https://apps.apple.com/us/app/remini-ai-photo-enhancer/id1470373330"
-                target="_blank">IOS App Store</a> <span style="color: #23527c;"><span
-                  style="color: #333333;">and 你我当年</span></span> <a href="https://app.mi.com/details?id=com.bigwinepot.nwdn"
+                target="_blank">IOS App Store</a> ) <span style="color: #23527c;"><span
+                  style="color: #333333;">and 你我当年 </span></span>( <a href="https://app.mi.com/details?id=com.bigwinepot.nwdn"
                 target="_blank">XIAOMI App Sstore</a> | <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
-                target="_blank">IOS App Store</a>), with over 50M users
+                target="_blank">IOS App Store </a>), with over 50M users
               worldwide.</p>
             <p>NEW (04/2021): One paper accepted to IJCAI 2021. </p>
             <p>NEW (02/2021): One paper accepted to CVPR 2021, oral presentation
@@ -181,13 +182,13 @@
                     Object Detection in 20 Years: A Survey. CoRR,
                     abs/1905.05055, 2019. <a href="https://arxiv.org/pdf/1905.05055.pdf"
                       target="_blank">[PDF]</a></p>
-                  This paper extensively reviews 400+ papers of object detection
-                  in the light of its technical evolution, spanning over a
+                  Extensively reviews 400+ papers of object detection in the
+                  light of its technical evolution, spanning over a
                   quarter-century’s time (from the 1990s to 2019). A number of
                   topics are covered in this paper, including milestone
-                  detectors in history, detection datasets, metrics, fundamental
-                  building blocks of detection systems, speed up techniques, and
-                  the recent state of the art detection methods.
+                  detectors, detection datasets, metrics, fundamental building
+                  blocks of detection systems, speed up techniques, and the
+                  recent state of the art detection methods.
                   <p></p>
                   <b>- High-impact Citations: </b><img class="img-thumbnail" src="zzx_gallery/Media-Coverage/stanford.jpg"
                     alt="">&nbsp; <a href="http://cs231n.stanford.edu/slides/2020/lecture_12.pdf"
@@ -292,10 +293,8 @@
                   <b>- Media Coverage:</b> <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/jiqizhixin.jpg"
                     alt="" style="">&nbsp; <a href="https://www.jiqizhixin.com/articles/2021-04-21-5"
                     target="_blank"><u>有 了这支矢量神经风格画笔，无需GAN也可生成精美绘画</u></a> | <img
-                    class="img-thumbnail" src="zzx_gallery/Media-Coverage/liangziwei.jpg"
-                    alt=""> <a href="https://mp.weixin.qq.com/s/xowoCSI6yIrzPTavz4OiLg"
-                    target="_blank"> <u>美术生都要膜拜的AI，照片迅速被画成艺术画</u></a> | <img class="img-thumbnail"
-                    src="zzx_gallery/Media-Coverage/synced.jpg" alt=""> <a href="https://syncedreview.com/2020/11/18/automatic-image-to-painting-translation-method-generates-vivid-paintings-in-controllable-styles/"
+                    class="img-thumbnail" src="zzx_gallery/Media-Coverage/synced.jpg"
+                    alt=""> <a href="https://syncedreview.com/2020/11/18/automatic-image-to-painting-translation-method-generates-vivid-paintings-in-controllable-styles/"
                     target="_blank"><u>Automatic Image-to-Painting Translation
                       Method Generates Vivid Paintings in Controllable Styles</u></a>
                   | <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/marktechpost.jpg"
@@ -689,10 +688,10 @@
               <div class="panel-heading"><b>Guest Editor</b> </div>
               <div class="panel-body">
                 <ul>
-                  <li>Special Issue on Remote Sensing (IF=4.848): "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/RS_Image_Quality_Improvement"
+                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/RS_Image_Quality_Improvement"
                       target="_blank">Advanced Learning Techniques for Remote
                       Sensing Image Quality Improvement</a>".</li>
-                  <li>Special Issue on Remote Sensing (IF=4.848): "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/CIALT_RS"
+                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/CIALT_RS"
                       target="_blank">Computational Intelligence and Advanced
                       Learning Techniques in Remote Sensing</a>".</li>
                 </ul>
