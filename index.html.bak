@@ -128,7 +128,7 @@
                   <li><i><b><i><b>1500+ Google Scholar citations, </b></i>4000+
                         GitHub Stars/Forks </b></i></li>
                   <li><i> <b>Two papers selected in PaperWithCode "Top-10
-                        Trending Research" and GitHub Trending Repositories<br>
+                        Trending Research" and "GitHub Trending Repositories"<br>
                       </b></i></li>
                   <li><i> <b>Featured in two top-university courses </b>(<a href="http://cs231n.stanford.edu/"
                         target="_blank">Stanford CS231n</a> and <a href="https://www.cc.gatech.edu/%7Ejarulraj/courses/8803-f18/"
@@ -564,8 +564,8 @@
                   <p></p>
                   <p> Zhengxia Zou, Tianyang Shi, Zhenwei Shi, and Jieping Ye.
                     Adversarial Training for Solving Inverse Problems in Image
-                    Processing. <i><em>IEEE Transactions on Image Processing, </em></i><em>2021,
-                      in press. </em><a href="https://ieeexplore.ieee.org/document/9337199"
+                    Processing. <i><em>IEEE Transactions on Image Processing, </em></i><em>2021.
+                      </em><a href="https://ieeexplore.ieee.org/document/9337199"
                       target="_blank">[PDF]</a><em> </em><a href="https://www.youtube.com/watch?v=3ZNinJUlXNc"
                       target="_blank">[1min-DemoVideo]</a> <a href="https://github.com/jiupinjia/GANs-for-Inverse-Problems"
                       target="_blank">[Github]</a></p>
@@ -638,7 +638,7 @@
                   <p></p>
                   <p> Wenyuan Li, Zhengxia Zou, and Zhenwei Shi. Deep Matting
                     for Cloud Detection in Remote Sensing Images.&nbsp;<i><em>IEEE
-                        Transactions on Geoscience and Remote Sensing, in press,
+                        Transactions on Geoscience and Remote Sensing,
                         2020.&nbsp; </em></i> <a href="https://ieeexplore.ieee.org/document/9082868"
                       target="_blank">[PDF]</a></p>
                 </div>
@@ -684,6 +684,70 @@
                     Translation for Game Character Auto-Creation. <i><i>IEEE
                         International Conference on Computer Vision (ICCV) 2019</i>.</i><b><i>
                       </i></b><a href="https://arxiv.org/abs/1909.01064" target="_blank">[PDF]</a></p>
+                  <p> </p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                    src="zzx_gallery/thumb-RAM.jpg"> </div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p><strong></strong>Zhengxia Zou, and Zhenwei Shi. Random
+                    access memories: A new paradigm for target detection in high
+                    resolution aerial remote sensing images.&nbsp;<i><i><i><em>IEEE
+                            Transactions on Image Processing,</em></i> 2017</i>.</i></p>
+                  <p> </p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                    src="zzx_gallery/thumb-SVDNet.jpg"> </div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p>Zhengxia Zou, and Zhenwei Shi. Ship Detection in Spaceborne
+                    Optical Image With SVD Networks.&nbsp;<i><i><i><em>IEEE
+                            Transactions on Geoscience and Remote Sensing,</em></i>
+                        2016</i>.</i></p>
+                  <p> </p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                    src="zzx_gallery/thumb-SVDNet.jpg"> </div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p>Zhenwei Shi, Zhengxia Zou, Changshui Zhang. Real-time
+                    Traffic Light Detection with Adaptive Background Suppression
+                    Filter. IEEE Transactions on Intelligent Transportation
+                    Systems<i><i><i><em>,</em></i> 2015</i>.</i></p>
+                  <p> </p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                    src="zzx_gallery/thumb-RSCaption.jpg"> </div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p>Zhenwei Shi, and Zhengxia Zou* (Corresponding author). Can
+                    a machine generate humanlike language descriptions for a
+                    remote sensing image? <i><i><i><em>IEEE Transactions on
+                            Geoscience and Remote Sensing,</em></i> 2017</i>.</i></p>
+                  <p> </p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                    src="zzx_gallery/thumb-HCEM.jpg"> </div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p>Zhengxia Zou, and Zhenwei Shi. Hierarchical suppression
+                    method for hyperspectral target detection. IEEE Transactions
+                    on Geoscience and Remote Sensing, 2015<i><i></i>.</i></p>
                   <p> </p>
                 </div>
               </div>
