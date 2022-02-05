@@ -144,8 +144,8 @@
               <div class="col-sm-6">
                 <ul>
                   <li><i><b>40+ peer-reviewed publications, including 20+
-                        top-tier journals and conferences (e.g.,TPAMI, TIP,
-                        CVPR, ICCV, AAAI, ICRA, ... )&nbsp; </b></i></li>
+                        top-tier journals and conferences (TPAMI, TIP, CVPR,
+                        ICCV, AAAI, ICRA, ... )&nbsp; </b></i></li>
                   <li><i><b><i><b>1700+ Google Scholar citations, </b></i>4000+
                         GitHub Stars/Forks </b></i></li>
                   <li><i> <b>Two papers selected in PaperWithCode "Top-10
@@ -543,8 +543,7 @@
                   <p> <b>- Featured Applications:</b> Deployed at a two-lane
                     roundabout located at Ellsworth Rd. and State St., Ann
                     Arbor, MI, USA, providing 7x24 real-time traffic flow
-                    monitoring for hazardous driving scenarios
-                    identification.</p>
+                    monitoring for hazardous driving scenarios identification.</p>
                   <p><br>
                   </p>
                 </div>
@@ -654,8 +653,7 @@
 
                     target="_blank"><u>Researchers at the University of Michigan
                       and Netease Fuxi AI Lab Introduce ‘MeInGame’: A Deep
-                      Learning Technique To Automatically Create a Game
-                      Character Face from a Single Portrait</u></a> | <span style="color: #337ab7;"></span>
+                      Learning Technique To...</u></a> | <span style="color: #337ab7;"></span>
                   <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/aitimes.jpg"
 
                     alt="">&nbsp; <a href="http://www.aitimes.com/news/articleView.html?idxno=137127"
@@ -863,6 +861,22 @@
                 <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
 
                     src="zzx_gallery/thumb-CoupledGAN.jpg"> </div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p> Sen Lei, Zhenwei Shi, and<strong> </strong>Zhengxia Zou.
+                    Coupled Adversarial Training for Remote Sensing Image
+                    Super-resolution.&nbsp;<i><em>IEEE Transactions on
+                        Geoscience and Remote Sensing.</em></i><em></em> 58(5),
+                    May 2020, pp. 3633 - 3643. <i><em></em></i><a href="https://ieeexplore.ieee.org/document/8946581"
+
+                      target="_blank">[PDF]</a></p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
+                    src="zzx_gallery/thumb-StructCap.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
                   <p> Sen Lei, Zhenwei Shi, and<strong> </strong>Zhengxia Zou.
