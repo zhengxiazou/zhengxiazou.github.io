@@ -124,9 +124,10 @@
             <div class="row">
               <div class="col-sm-6">
                 <ul>
-                  <li><i><b>30+ peer-reviewed publications, including TPAMI,
-                        CVPR, ICCV, AAAI ...&nbsp; </b></i></li>
-                  <li><i><b><i><b>1600+ Google Scholar citations, </b></i>4000+
+                  <li><i><b>40+ peer-reviewed publications, including 20+
+                        top-tier journals and conferences like TPAMI, TIP, CVPR,
+                        ICCV, AAAI, ICRA ...&nbsp; </b></i></li>
+                  <li><i><b><i><b>1700+ Google Scholar citations, </b></i>4000+
                         GitHub Stars/Forks </b></i></li>
                   <li><i> <b>Two papers selected in PaperWithCode "Top-10
                         Trending Research" and "GitHub Trending Repositories"<br>
@@ -138,8 +139,9 @@
               </div>
               <div class="col-sm-6">
                 <ul>
-                  <li><i><b>Featured in 10+ Apps and open source AI-platforms
-                        with over 80M registered users worldwide</b>, including
+                  <li><i><b>Featured in 10+ platforms/facilities with over 80M
+                        registered users worldwide</b>, including</i><i><i> <a
+                          href="https://mcity.umich.edu/" target="_blank">MCITY</a>,</i>
                       <a href="https://apps.apple.com/us/app/remini-ai-photo-enhancer/id1470373330"
                         target="_blank"> REMINI</a>, <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4/id1461690800?l=en"
                         target="_blank">你我当年</a>, <a href="https://n.163.com/"
@@ -150,10 +152,10 @@
                         target="_blank"> RUNWAYML</a>, <a href="https://www.paddlepaddle.org.cn/hub"
                         target="_blank">PaddleHub</a>...</i><i><b><br>
                       </b></i></li>
-                  <li><i><b>Covered by 30+ global tech-media</b>, including</i><i><i>
-                        <a href="http://tv.cctv.com/2022/01/19/VIDEJ78zT7md9otWzW5qgT6N220119.shtml"
+                  <li><i><b>Covered by 30+ high-impact global tech-media</b>,
+                      including</i><i><i> <a href="http://tv.cctv.com/2022/01/19/VIDEJ78zT7md9otWzW5qgT6N220119.shtml"
                           target="_blank">中央电视台</a>,</i><a href="https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/"
-                        target="_blank">TheNextWeb</a>, <a href="http://www.mittrchina.com/news/detail/5650"
+                        target="_blank"> TheNextWeb</a>, <a href="http://www.mittrchina.com/news/detail/5650"
                         target="_blank">MIT Technology Review (China)</a>, <a href="https://www.youtube.com/watch?v=l_C3KFeI_l0"
                         target="_blank">Two-Minute-Papers</a>, <a href="https://syncedreview.com/2020/11/18/automatic-image-to-painting-translation-method-generates-vivid-paintings-in-controllable-styles/"
                         target="_blank">Synced</a>, <a href="https://www.jiqizhixin.com/articles/2020-10-25"
@@ -231,7 +233,7 @@
                     contribution), Zhenwei Shi, and Yi Yuan<strong></strong>.
                     Neural Rendering for Game Character Auto-creation. <i><i>IEEE
                         Transactions on Pattern Analysis and Machine
-                        Intelligence, 2020</i>, in press. </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
+                        Intelligence, 2020</i>. </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
                       target="_blank">[PDF]</a> <br>
                   </p>
                   <p> </p>
@@ -380,13 +382,13 @@
                   <b>- Social Media Channels</b>:&nbsp; <img class="img-thumbnail"
                     src="zzx_gallery/Media-Coverage/2minpapers.jpg" alt="">&nbsp;
                   <a href="https://www.youtube.com/watch?v=l_C3KFeI_l0" target="_blank"><u>AI-Based
-                      Sky Replacement Is Here! 🌓 (by @Two Minute Papers)</u></a><span
-                    style="color: #337ab7;"></span> |&nbsp; <img class="img-thumbnail"
-                    src="zzx_gallery/Media-Coverage/bycloud.jpg" alt="">&nbsp; <a
-                    href="https://www.youtube.com/watch?v=yNwQnrjfg5A" target="_blank"><u>AI
-                      Sky Replacement with SkyAR (by @bycloud)</u></a><span style="color: #337ab7;"></span>
-                  | <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/minecraft.jpg"
-                    alt="">&nbsp; <a href="https://www.reddit.com/r/Minecraft/comments/juxmkk/this_ai_lets_you_replace_the_sky_so_naturally_it/"
+                      Sky Replacement Is Here! 🌓</u></a><span style="color: #337ab7;"></span>
+                  |&nbsp; <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/bycloud.jpg"
+                    alt="">&nbsp; <a href="https://www.youtube.com/watch?v=yNwQnrjfg5A"
+                    target="_blank"><u>AI Sky Replacement with SkyAR</u></a><span
+                    style="color: #337ab7;"></span> | <img class="img-thumbnail"
+                    src="zzx_gallery/Media-Coverage/minecraft.jpg" alt="">&nbsp;
+                  <a href="https://www.reddit.com/r/Minecraft/comments/juxmkk/this_ai_lets_you_replace_the_sky_so_naturally_it/"
                     target="_blank"><u>SkyAR X MineCraft</u></a> |&nbsp; <span
                     style="color: #337ab7;"></span> <img class="img-thumbnail"
                     src="zzx_gallery/Media-Coverage/twitter.jpg" alt="">&nbsp; <a
@@ -413,8 +415,17 @@
                     Real-time Full-stack Traffic Scene Perception for Autonomous
                     Driving with Roadside Cameras. <em><i>The International
                         Conference on Robotics and Automation (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.
-                    </em><br>
-                    <a href="https://www.youtube.com/watch?v=RkiKe5UNzXA" target="_blank">[1min-DemoVideo]</a></p>
+                    </em><a href="https://www.youtube.com/watch?v=RkiKe5UNzXA" target="_blank">[1min-DemoVideo]
+                      </a><a href="https://colab.research.google.com/drive/1XwZ4VI12CX2v9561-WD5EJwoSTJPFBbr?usp=sharing%2F"
+                      target="_blank"></a> </p>
+                  <p> <b><b>- Featured </b>Applications:<span style="color: #337ab7;">
+                      </span></b><span style="color: #337ab7;"></span>Deployed
+                    at a two-lane roundabout located at Ellsworth Rd. and State
+                    St., Ann Arbor, MI, USA, providing 7x24 real-time traffic
+                    flow monitoring for hazardous driving scenarios
+                    identification.</p>
+                  <p><br>
+                  </p>
                 </div>
               </div>
               <br>
@@ -424,8 +435,8 @@
                 <div class="col-sm-9">
                   <p></p>
                   <p> Yinglin Duan, Yue Lin, Zhengxia Zou* (*Corresponding
-                    author), Yi Yuan, Zhehui Qian, Bohan Zhang. Single-Shot
-                    Motion Completion with Transformers.&nbsp;<em><i>AAAI
+                    author), Yi Yuan, Zhehui Qian, Bohan Zhang. A Unified
+                    Framework for Real Time Motion Completion.&nbsp;<em><i>AAAI
                         Conference on Artificial Intelligence (AAAI) 2022</i></em><em><i><em></em></i><em></em><em></em>.</em></p>
                 </div>
               </div>
@@ -788,9 +799,9 @@
               <div class="panel-body">
                 <ul>
                   <li>Senior Program Committee (SPC) member of IJCAI 2021.</li>
-                  <li>NeurIPS 2019, 2020 PC Member; ICCV 2021 Reviewer; ICLR
-                    2021 Reviewer; AAAI 2020, 2021 PC Member; CVPR 2020, 2021 PC
-                    Member; ACCV 2020 PC Member; WACV 2021 PC Member.</li>
+                  <li>CVPR 2020, 2021, 2022 PC Member; NeurIPS 2019, 2020 PC
+                    Member; ICCV 2021 Reviewer; ICLR 2021 Reviewer; AAAI 2020,
+                    2021 PC Member; ACCV 2020 PC Member; WACV 2021 PC Member.</li>
                   <li>IEEE Transactions on Pattern Analysis and Machine
                     Intelligence; IEEE Transactions on Image Processing; IEEE
                     Signal Processing Magazine; IEEE Transactions on Geoscience
