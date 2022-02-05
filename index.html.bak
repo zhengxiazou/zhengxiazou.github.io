@@ -125,8 +125,8 @@
               <div class="col-sm-6">
                 <ul>
                   <li><i><b>40+ peer-reviewed publications, including 20+
-                        top-tier journals and conferences like TPAMI, TIP, CVPR,
-                        ICCV, AAAI, ICRA ...&nbsp; </b></i></li>
+                        top-tier journals and conferences (e.g.,TPAMI, TIP,
+                        CVPR, ICCV, AAAI, ICRA, ... )&nbsp; </b></i></li>
                   <li><i><b><i><b>1700+ Google Scholar citations, </b></i>4000+
                         GitHub Stars/Forks </b></i></li>
                   <li><i> <b>Two papers selected in PaperWithCode "Top-10
@@ -197,7 +197,7 @@
                     abs/1905.05055, 2019. <a href="https://arxiv.org/pdf/1905.05055.pdf"
                       target="_blank">[PDF]</a></p>
                   Extensively reviews 400+ papers of object detection in the
-                  light of its technical evolution, spanning over a
+                  light of technical evolution, spanning over a
                   quarter-century’s time (from the 1990s to 2019). A number of
                   topics are covered in this paper, including milestone
                   detectors, detection datasets, metrics, fundamental building
@@ -543,10 +543,7 @@
                             Presentation</span></em></em>. </em><a href="https://arxiv.org/pdf/2103.12957.pdf"
                       target="_blank">[PDF]</a></p>
                   <p> </p>
-                  <b>- Media Coverage:</b>&nbsp; <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/CVer.jpg"
-                    alt="">&nbsp; &nbsp;<a href="https://zhuanlan.zhihu.com/p/359762764"
-                    target="_blank"><u> Transformer再下一城！VolT - 用于多视图3D重建的 3D
-                      Volume Transformer</u></a> | <span style="color: #337ab7;"></span>
+                  <b>- Media Coverage:</b>&nbsp; <span style="color: #337ab7;"></span>
                   <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/jiangmen.jpg"
                     alt="">&nbsp; <a href="https://mp.weixin.qq.com/s/anYWPd1yr431OhamqGbKKw"
                     target="_blank"><u>基 于Transformer的多视角三维重建算法参数减量质更优</u></a> </div>
@@ -569,8 +566,7 @@
                   <p> </p>
                   <b>- Media Coverage:</b>&nbsp; <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/liangziwei.jpg"
                     alt=""> <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/thepaper.jpg"
-                    alt=""> <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/zaker.jpg"
-                    alt="">&nbsp;&nbsp; <a href="https://mp.weixin.qq.com/s/NVeRulCaQ6xe7NpmFgr6XA"
+                    alt="">&nbsp; <a href="https://mp.weixin.qq.com/s/NVeRulCaQ6xe7NpmFgr6XA"
                     target="_blank"><u>多数人类看不懂的立体图，AI现在看懂了</u></a> </div>
               </div>
               <br>
