@@ -410,10 +410,12 @@
                     Punarjay Chakravarty, Armin Parchami, and Henry X. Liu.
                     Real-time Full-stack Traffic Scene Perception for Autonomous
                     Driving with Roadside Cameras. <em><i>The International
-                        Conference on Robotics and Automation (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.
-                    </em><a href="https://www.youtube.com/watch?v=RkiKe5UNzXA" target="_blank">[1min-DemoVideo]
-                      </a><a href="https://colab.research.google.com/drive/1XwZ4VI12CX2v9561-WD5EJwoSTJPFBbr?usp=sharing%2F"
-                      target="_blank"></a> </p>
+                        Conference on Robotics and Automation (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.&nbsp;</em><a
+                      href="https://www.youtube.com/watch?v=RkiKe5UNzXA" target="_blank">
+                      <em> </em></a><a href="https://arxiv.org/abs/2010.11800"
+                      target="_blank">[PDF] </a><a href="https://www.youtube.com/watch?v=RkiKe5UNzXA"
+                      target="_blank">[1min-DemoVideo]
+                    </a> </p>
                   <p> <b>- Featured Applications:</b> Deployed at a two-lane
                     roundabout located at Ellsworth Rd. and State St., Ann
                     Arbor, MI, USA, providing 7x24 real-time traffic flow
