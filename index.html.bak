@@ -78,6 +78,7 @@
                   style="color: #cc0000;">Intern </span>positions are always
                 available. Please email me with your CV if you are interested.</span>
             </p>
+            <p>NEW (06/2022): One paper accepted to ACM MM 2022<em>.</em></p>
             <p>NEW (02/2022): One paper accepted to ICRA 2022<em>.</em></p>
             <p>NEW (12/2021): One paper accepted to AAAI 2022, oral presentation<em>.</em></p>
             <p>NEW (08/2021): One paper accepted to ICCV 2021, oral
@@ -103,7 +104,6 @@
 
                 target="_blank">IOS App Store </a>), with over 50M users
               worldwide.</p>
-            <p>NEW (04/2021): One paper accepted to IJCAI 2021. </p>
             <p>NEW (02/2021): One paper accepted to CVPR 2021, oral presentation
               ( <a href="https://arxiv.org/abs/2011.08114" target="_blank">Preprint</a>
               | <a href="https://jiupinjia.github.io/neuralpainter/" target="_blank">Project</a>
@@ -118,12 +118,10 @@
             <p>NEW (12/2020): I will be serving as a Senior Program Committee
               (SPC) member in <a href="https://ijcai-21.org/" target="_blank">IJCAI
                 2021</a>.</p>
-            <p>NEW (12/2020): One paper accepted to AAAI 2021.</p>
             <p>NEW (09/2020): Our neural rendering paper was accepted by TPAMI.
               A great pleasure working with <a href="https://fuxi.163.com/en/"
 
                 target="_blank">NetEase Fuxi Labs</a>.</p>
-            <p>NEW (07/2020): One paper accepted to ACM MM 2020.</p>
             <p>NEW (02/2020): One paper accepted to CVPR 2020.</p>
             <p> </p>
           </div>
@@ -548,12 +546,11 @@
                         Conference on Robotics and Automation (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.&nbsp;</em><a
 
                       href="https://www.youtube.com/watch?v=RkiKe5UNzXA" target="_blank">
-                      <em> </em></a><a href="https://arxiv.org/abs/2010.11800"
+                      <em> </em></a><a href="https://arxiv.org/abs/2206.09770"
 
                       target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=RkiKe5UNzXA"
 
-                      target="_blank">[1min-DemoVideo]
-                    </a> </p>
+                      target="_blank">[1min-DemoVideo] </a> </p>
                   <p> <b>- Featured Applications:</b> Deployed at a two-lane
                     roundabout located at Ellsworth Rd. and State St., Ann
                     Arbor, MI, USA, providing 7x24 real-time traffic flow
@@ -735,24 +732,14 @@
               <div class="row">
                 <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
 
-                    src="zzx_gallery/thumb-VolT.jpg"></div>
+                    src="zzx_gallery/thumb-Linzhiqian.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Dan Wang, Xinrui Cui, Xun Chen, Zhengxia Zou, Tianyang
-                    Shi, Septimiu Salcudean, Z. Jane Wang, and Rabab Ward.
-                    Multi-view 3D Reconstruction with Transformer. <i>IEEE
-                      International Conference on Computer Vision (ICCV)</i><em>,
-                      2021, </em><em><em><em><span style="color: #cc0000;">Oral
-                            Presentation</span></em></em>. </em><a href="https://arxiv.org/pdf/2103.12957.pdf"
-
-                      target="_blank">[PDF]</a></p>
-                  <p> </p>
-                  <b>- Media Coverage:</b>&nbsp; <span style="color: #337ab7;"></span>
-                  <img class="img-thumbnail" src="zzx_gallery/Media-Coverage/jiangmen.jpg"
-
-                    alt="">&nbsp; <a href="https://mp.weixin.qq.com/s/anYWPd1yr431OhamqGbKKw"
-
-                    target="_blank"><u>基 于Transformer的多视角三维重建算法参数减量质更优</u></a> </div>
+                  <p> 12. Zhiqian Lin, Jiangke Lin, Lincheng Li, Yi Yuan,
+                    Zhengxia Zou* (*Corresponding author). High-Quality 3D Face
+                    Reconstruction with Affine Convolutional Networks. <em>ACM
+                      International Conference on Multimedia (ACM MM) 2022.</em></p>
+                </div>
               </div>
               <br>
               <div class="row">
@@ -822,90 +809,18 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
-
-                    src="zzx_gallery/thumb-music2dance.jpg"></div>
-                <div class="col-sm-9">
-                  <p></p>
-                  <p> Yinglin Duan*, Tianyang Shi* (*Equal contribution), <span
-
-                      style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Zhipeng
-                      Hu,</span> Zhengxia Zou, Changjie Fan, Yi Yuan, and <span
-
-                      style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Xi
-                      Li</span>. Automatic Translation of Music-to-Dance for
-                    In-Game Characters. <em>International Joint Conference on
-                      Artificial Intelligence (</em><em><em>IJCAI</em>) 2021. </em><br>
-                    <em></em><a href="https://ijcai-21.org/videos-slides/?video=1038"
-
-                      target="_blank">[Demo-Video]</a></p>
-                </div>
-              </div>
-              <br>
-              <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
-
-                    src="zzx_gallery/thumb-pokerfacegan.jpg"></div>
-                <div class="col-sm-9">
-                  <p></p>
-                  <p> Tianyang Shi, Zhengxia Zou, Xinhui Song, Zheng Song,
-                    Changjian Gu, Yi Yuan, and Changjie Fan. Neutral Face Game
-                    Character Auto-Creation via PokerFace-GAN. <em>ACM
-                      International Conference on Multimedia (ACM MM) 2020. </em><a
-
-                      href="https://arxiv.org/pdf/2008.07154.pdf" target="_blank">[PDF]
-                      </a><a href="https://github.com/FuxiCV/pt_mesh_renderer" target="_blank">[Github]</a></p>
-                </div>
-              </div>
-              <br>
-              <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
-
-                    src="zzx_gallery/thumb-F2P2.0.jpg"> </div>
-                <div class="col-sm-9">
-                  <p></p>
-                  <p> Tianyang Shi, Zhengxia Zou, Yi Yuan, and Changjie Fan.
-                    Fast and Robust Face-to-Parameter Translation for Game
-                    Character Auto-creation. <i>AAAI Conference on Artificial
-                      Intelligence (AAAI) 2020.</i> <a href="https://arxiv.org/pdf/2008.07132.pdf"
-
-                      target="_blank">[PDF]</a><a href="https://github.com/FuxiCV/Face-to-Parameter-V2"
-
-                      target="_blank">[Github]</a></p>
-                </div>
-              </div>
-              <br>
-              <div class="row">
                 <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
 
                     src="zzx_gallery/thumb-cloudmatting.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Wenyuan Li, Zhengxia Zou, and Zhenwei Shi. Deep Matting
-                    for Cloud Detection in Remote Sensing Images.&nbsp;<i><em>IEEE
-                        Transactions on Geoscience and Remote Sensing,
-                        2020.&nbsp; </em></i> <a href="https://ieeexplore.ieee.org/document/9082868"
+                  <p> Wenyuan Li, Zhengxia Zou*, and Zhenwei Shi*
+                    (*Corresponding author). Deep Matting for Cloud Detection in
+                    Remote Sensing Images.&nbsp;<i><em>IEEE Transactions on
+                        Geoscience and Remote Sensing, 2020.&nbsp; </em></i> <a
 
-                      target="_blank">[PDF]</a></p>
+                      href="https://ieeexplore.ieee.org/document/9082868" target="_blank">[PDF]</a></p>
                 </div>
-              </div>
-              <br>
-              <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
-
-                    src="zzx_gallery/thumb-GTAVRS.jpg"> </div>
-                <div class="col-sm-9">
-                  <p></p>
-                  <p> <strong> </strong>Zhengxia Zou*, Tianyang Shi* (*equal
-                    contribution), Wenyuan Li, Zhou Zhang, and Zhenwei Shi. Do
-                    Game Data Generalize Well for Remote Sensing Image
-                    Segmentation?&nbsp;<i><em>Remote Sensing, in press, 2020. </em></i><a
-
-                      href="https://www.mdpi.com/2072-4292/12/2/275" target="_blank">[PDF]</a></p>
-                  <p> </p>
-                  <a href="https://github.com/jiupinjia/gtav-sattellite-imagery-dataset">[GTA-V-SID]</a>
-                  - A synthetic remote sensing image dataset from the video game
-                  GTA-V for semantic segmentation. </div>
               </div>
               <br>
               <div class="row">
@@ -914,58 +829,13 @@
                     src="zzx_gallery/thumb-CoupledGAN.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Sen Lei, Zhenwei Shi, and<strong> </strong>Zhengxia Zou.
-                    Coupled Adversarial Training for Remote Sensing Image
-                    Super-resolution.&nbsp;<i><em>IEEE Transactions on
-                        Geoscience and Remote Sensing, 2020</em></i>. <i><em></em></i><a
-
-                      href="https://ieeexplore.ieee.org/document/8946581" target="_blank">[PDF]</a></p>
-                </div>
-              </div>
-              <br>
-              <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
-
-                    src="zzx_gallery/thumb-StructCap.jpg"> </div>
-                <div class="col-sm-9">
-                  <p></p>
-                  <p> Rui Zhao, Zhenwei Shi, and<strong> </strong>Zhengxia Zou.
-                    High-Resolution Remote Sensing Image Captioning Based on
-                    Structured Attention.&nbsp;<i><em>IEEE Transactions on
-                        Geoscience and Remote Sensing, 2021</em></i>. <i><em></em></i><a
-
-                      href="https://ieeexplore.ieee.org/document/9400386" target="_blank">[PDF]</a></p>
-                </div>
-              </div>
-              <br>
-              <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
-
-                    src="zzx_gallery/thumb-huapeng.jpg"> </div>
-                <div class="col-sm-9">
-                  <p></p>
-                  <p>Huapeng Wu, Zhengxia Zou, Jie Gui, Wen-Jun Zeng, Jieping
-                    Ye, Jun Zhang, Hongyi Liu, Zhihui Wei. Multi-grained
-                    Attention Networks for Single Image Super-Resolution.&nbsp;<i><em>IEEE
-                        Transactions on Circuits and Systems for Video
-                        Technology, 2020</em></i>. <i><em></em></i><a href="https://arxiv.org/pdf/1909.11937.pdf"
+                  <p> Sen Lei, Zhenwei Shi*, and<strong> </strong>Zhengxia Zou*
+                    (*Corresponding author). Coupled Adversarial Training for
+                    Remote Sensing Image Super-resolution.&nbsp;<i><em>IEEE
+                        Transactions on Geoscience and Remote Sensing, 2020</em></i>.
+                    <i><em></em></i><a href="https://ieeexplore.ieee.org/document/8946581"
 
                       target="_blank">[PDF]</a></p>
-                </div>
-              </div>
-              <br>
-              <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
-
-                    src="zzx_gallery/thumb-FaceParams-iccv.jpg"> </div>
-                <div class="col-sm-9">
-                  <p></p>
-                  <p> Tianyang Shi, Yi Yuan, Changjie Fan,<strong> </strong>Zhengxia
-                    Zou, Zhenwei Shi, and Yong Liu. Face-to-Parameter
-                    Translation for Game Character Auto-Creation. <i><i>IEEE
-                        International Conference on Computer Vision (ICCV) 2019</i>.</i><b><i>
-                      </i></b><a href="https://arxiv.org/abs/1909.01064" target="_blank">[PDF]</a></p>
-                  <p> </p>
                 </div>
               </div>
               <br>
@@ -1003,10 +873,10 @@
                     src="zzx_gallery/thumb-AdaBSF.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p>Zhenwei Shi, Zhengxia Zou, Changshui Zhang. Real-time
-                    Traffic Light Detection with Adaptive Background Suppression
-                    Filter. <i>IEEE Transactions on Intelligent Transportation
-                      Systems<em>, 2015</em>.</i></p>
+                  <p>Zhenwei Shi (Ph.D. supervisor), Zhengxia Zou, Changshui
+                    Zhang. Real-time Traffic Light Detection with Adaptive
+                    Background Suppression Filter. <i>IEEE Transactions on
+                      Intelligent Transportation Systems<em>, 2015</em>.</i></p>
                   <p> </p>
                 </div>
               </div>
