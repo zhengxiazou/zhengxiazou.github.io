@@ -190,8 +190,8 @@
                     src="zzx_gallery/thumb-DetectionSurvey.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou, Zhenwei Shi, Yuhong Guo, and Jieping Ye.
-                    Object Detection in 20 Years: A Survey. CoRR,
+                  <p> <b>Zhengxia Zou</b>, Zhenwei Shi, Yuhong Guo, and Jieping
+                    Ye. Object Detection in 20 Years: A Survey. CoRR,
                     abs/1905.05055, 2019. <a href="https://arxiv.org/pdf/1905.05055.pdf"
                       target="_blank">[PDF]</a></p>
                   Extensively reviews 400+ papers of object detection in the
@@ -227,8 +227,8 @@
                     src="zzx_gallery/thumb-FaceParams-pami.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Tianyang Shi*, <strong></strong>Zhengxia Zou* (*equal
-                    contribution), Zhenwei Shi, and Yi Yuan<strong></strong>.
+                  <p> Tianyang Shi*, <b><strong></strong>Zhengxia Zou</b>*
+                    (*equal contribution), Zhenwei Shi, and Yi Yuan<strong></strong>.
                     Neural Rendering for Game Character Auto-creation. <i><i>IEEE
                         Transactions on Pattern Analysis and Machine
                         Intelligence, 2020</i>. </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
@@ -284,8 +284,8 @@
                     src="zzx_gallery/thumb-painting.gif"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou, Tianyang Shi, Shuang Qiu, Yi Yuan, and
-                    Zhenwei Shi. Stylized Neural Painting.&nbsp;<em><em>IEEE
+                  <p> <b>Zhengxia Zou</b>, Tianyang Shi, Shuang Qiu, Yi Yuan,
+                    and Zhenwei Shi. Stylized Neural Painting.&nbsp;<em><em>IEEE
                         Conference on Computer Vision and Pattern Recognition
                         (CVPR) 2021, <span style="color: #cc0000;">Oral
                           Presentation</span>.</em> </em><a href="https://arxiv.org/abs/2011.08114"
@@ -348,9 +348,9 @@
                     src="zzx_gallery/thumb-SkyAR.gif"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou, Rui Zhao, Tianyang Shi, Shuang Qiu, and
-                    Zhenwei Shi. Castle in the Sky: Dynamic Sky Replacement and
-                    Harmonization in Videos. <em>IEEE Transactions on Image
+                  <p> <b>Zhengxia Zou</b>, Rui Zhao, Tianyang Shi, Shuang Qiu,
+                    and Zhenwei Shi. Castle in the Sky: Dynamic Sky Replacement
+                    and Harmonization in Videos. <em>IEEE Transactions on Image
                       Processing,</em> 2022. In press. <a href="https://arxiv.org/abs/2010.11800"
                       target="_blank">[PDF]</a><em> </em><a href="https://www.youtube.com/watch?v=zal9Ues0aOQ"
                       target="_blank">[1min-DemoVideo]</a> <a href="https://jiupinjia.github.io/skyar/"
@@ -405,11 +405,12 @@
                     src="zzx_gallery/thumb-roadside.gif"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou, Rusheng Zhang, Shengyin Shen, Gaurav Pandey,
-                    Punarjay Chakravarty, Armin Parchami, and Henry X. Liu.
-                    Real-time Full-stack Traffic Scene Perception for Autonomous
-                    Driving with Roadside Cameras. <em><i>The International
-                        Conference on Robotics and Automation (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.&nbsp;</em><a
+                  <p> <b>Zhengxia Zou</b>, Rusheng Zhang, Shengyin Shen, Gaurav
+                    Pandey, Punarjay Chakravarty, Armin Parchami, and Henry X.
+                    Liu. Real-time Full-stack Traffic Scene Perception for
+                    Autonomous Driving with Roadside Cameras. <em><i>The
+                        International Conference on Robotics and Automation
+                        (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.&nbsp;</em><a
                       href="https://www.youtube.com/watch?v=RkiKe5UNzXA" target="_blank">
                       <em> </em></a><a href="https://arxiv.org/abs/2206.09770"
                       target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=RkiKe5UNzXA"
@@ -428,9 +429,9 @@
                     src="zzx_gallery/thumb-ImMPI.gif"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Yongchang Wu, Zhengxia Zou* (*Corresponding author), and
-                    Zhenwei Shi. Remote Sensing Novel View Synthesis with
-                    Implicit Multiplane Representations. <em>CoRR,
+                  <p> Yongchang Wu, <b>Zhengxia Zou</b>* (*Corresponding
+                    author), and Zhenwei Shi. Remote Sensing Novel View
+                    Synthesis with Implicit Multiplane Representations. <em>CoRR,
                       abs/2205.08908, 2022, submitted to IEEE TGRS</em><em></em><em><i><em></em></i><em></em><em></em>.</em>
                     <em> </em><a href="https://arxiv.org/abs/2205.08908" target="_blank">[PDF]</a><em>
                     </em><a href="https://github.com/wyc-Chang/ImMPI" target="_blank">[Github]</a>
@@ -443,7 +444,7 @@
                     src="zzx_gallery/thumb-PDASS.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Liqin Liu, Wenyuan Li, Zhenwei Shi, and Zhengxia Zou*
+                  <p> Liqin Liu, Wenyuan Li, Zhenwei Shi, and <b>Zhengxia Zou</b>*
                     (*Corresponding author). Physics-informed Hyperspectral
                     Remote Sensing Image Synthesis with Deep Conditional
                     Generative Adversarial Networks.&nbsp; <i><em>IEEE
@@ -459,9 +460,9 @@
                     src="zzx_gallery/thumb-SSMCT.gif"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Yinglin Duan, Yue Lin, Zhengxia Zou* (*Corresponding
-                    author), Yi Yuan, Zhehui Qian, Bohan Zhang. A Unified
-                    Framework for Real Time Motion Completion.&nbsp;<em><i>AAAI
+                  <p> Yinglin Duan, Yue Lin, <b>Zhengxia Zou</b>*
+                    (*Corresponding author), Yi Yuan, Zhehui Qian, Bohan Zhang.
+                    A Unified Framework for Real Time Motion Completion.&nbsp;<em><i>AAAI
                         Conference on Artificial Intelligence (AAAI) 2022</i></em><em><em>,
                         <span style="color: #cc0000;">Oral Presentation</span></em></em><em><i><em></em></i><em></em><em></em>.</em></p>
                 </div>
@@ -472,7 +473,7 @@
                     src="zzx_gallery/thumb-rocket.gif"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou. Rocket-recycling with Reinforcement
+                  <p> <b>Zhengxia Zou</b>. Rocket-recycling with Reinforcement
                     Learning, GitHub repository 2021 (<em>This is not a
                       peer-reviewed paper. However, it is an interesting
                       open-source project. Hope you like it!).&nbsp; </em> <a
@@ -495,8 +496,8 @@
                     src="zzx_gallery/thumb-meingame.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Jiangke Lin, Yi Yuan, and Zhengxia Zou. MeInGame: Create a
-                    Game Character Face from a Single Portrait. <i>AAAI
+                  <p> Jiangke Lin, Yi Yuan, and <b>Zhengxia Zou</b>. MeInGame:
+                    Create a Game Character Face from a Single Portrait. <i>AAAI
                       Conference on Artificial Intelligence (AAAI) 2021</i><em>.</em><em>
                     </em><a href="https://arxiv.org/abs/2102.02371" target="_blank">[PDF]</a><em>
                     </em><a href="https://www.youtube.com/watch?v=597cvKOegfE&amp;feature=youtu.be"
@@ -545,8 +546,8 @@
                     src="zzx_gallery/thumb-DAD.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou, Sen Lei, Tianyang Shi, Zhenwei Shi, and
-                    Jieping Ye. Deep Adversarial Decomposition: A Unified
+                  <p> <b>Zhengxia Zou</b>, Sen Lei, Tianyang Shi, Zhenwei Shi,
+                    and Jieping Ye. Deep Adversarial Decomposition: A Unified
                     Framework for Separating Superimposed Images. <em>IEEE
                       Conference on Computer Vision and Pattern Recognition
                       (CVPR) 2020. </em><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.pdf"
@@ -561,8 +562,8 @@
                     src="zzx_gallery/thumb-Linzhiqian.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhiqian Lin, Jiangke Lin, Lincheng Li, Yi Yuan, Zhengxia
-                    Zou* (*Corresponding author). High-Quality 3D Face
+                  <p> Zhiqian Lin, Jiangke Lin, Lincheng Li, Yi Yuan, <b>Zhengxia
+                      Zou</b>* (*Corresponding author). High-Quality 3D Face
                     Reconstruction with Affine Convolutional Networks. <em>ACM
                       International Conference on Multimedia (ACM MM) 2022.</em></p>
                 </div>
@@ -573,9 +574,9 @@
                     src="zzx_gallery/thumb-autostereogram.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou, Tianyang Shi, Yi Yuan, and Zhenwei Shi.
-                    NeuralMagicEye: Learning to See and Understand the Scene
-                    Behind an Autostereogram. <em></em><em><em>CoRR,
+                  <p> <b>Zhengxia Zou</b>, Tianyang Shi, Yi Yuan, and Zhenwei
+                    Shi. NeuralMagicEye: Learning to See and Understand the
+                    Scene Behind an Autostereogram. <em></em><em><em>CoRR,
                         abs/2012.15692, 2020</em>, submitted to ****. </em><a href="https://arxiv.org/abs/2012.15692"
                       target="_blank">[PDF]</a><em> </em><a href="https://www.youtube.com/watch?v=Fkh7DEblqJ8"
                       target="_blank">[1min-DemoVideo]</a> <a href="https://jiupinjia.github.io/neuralmagiceye/"
@@ -594,10 +595,10 @@
                     src="zzx_gallery/thumb-inverseGANs.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou, Tianyang Shi, Zhenwei Shi, and Jieping Ye.
-                    Adversarial Training for Solving Inverse Problems in Image
-                    Processing. <i><em>IEEE Transactions on Image Processing, </em></i><em>2021.
-                      </em><a href="https://ieeexplore.ieee.org/document/9337199"
+                  <p> <b>Zhengxia Zou</b>, Tianyang Shi, Zhenwei Shi, and
+                    Jieping Ye. Adversarial Training for Solving Inverse
+                    Problems in Image Processing. <i><em>IEEE Transactions on
+                        Image Processing, </em></i><em>2021. </em><a href="https://ieeexplore.ieee.org/document/9337199"
                       target="_blank">[PDF]</a><em> </em><a href="https://www.youtube.com/watch?v=3ZNinJUlXNc"
                       target="_blank">[1min-DemoVideo]</a> <a href="https://github.com/jiupinjia/GANs-for-Inverse-Problems"
                       target="_blank">[Github]</a></p>
@@ -609,10 +610,10 @@
                     src="zzx_gallery/thumb-cloudgan.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou, Wenyuan Li, Tianyang Shi, Zhenwei Shi, and
-                    Jieping Ye. Generative Adversarial Training for Weakly
-                    Supervised Cloud Matting. <i>IEEE International Conference
-                      on Computer Vision (ICCV) 2019.</i> <a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html"
+                  <p> <b>Zhengxia Zou</b>, Wenyuan Li, Tianyang Shi, Zhenwei
+                    Shi, and Jieping Ye. Generative Adversarial Training for
+                    Weakly Supervised Cloud Matting. <i>IEEE International
+                      Conference on Computer Vision (ICCV) 2019.</i> <a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html"
                       target="_blank">[PDF]</a> <a href="https://github.com/jiupinjia/CloudMattingGAN"
                       target="_blank">[Github]</a></p>
                 </div>
@@ -623,7 +624,7 @@
                     src="zzx_gallery/thumb-cloudmatting.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Wenyuan Li, Zhengxia Zou*, and Zhenwei Shi*
+                  <p> Wenyuan Li, <b>Zhengxia Zou</b>*, and Zhenwei Shi*
                     (*Corresponding author). Deep Matting for Cloud Detection in
                     Remote Sensing Images.&nbsp;<i><em>IEEE Transactions on
                         Geoscience and Remote Sensing, 2020.&nbsp; </em></i> <a
@@ -636,7 +637,7 @@
                     src="zzx_gallery/thumb-CoupledGAN.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Sen Lei, Zhenwei Shi*, and<strong> </strong>Zhengxia Zou*
+                  <p> Sen Lei, Zhenwei Shi*, and<strong> Zhengxia Zou</strong>*
                     (*Corresponding author). Coupled Adversarial Training for
                     Remote Sensing Image Super-resolution.&nbsp;<i><em>IEEE
                         Transactions on Geoscience and Remote Sensing, 2020</em></i>.
@@ -650,7 +651,7 @@
                     src="zzx_gallery/thumb-RAM.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p><strong></strong>Zhengxia Zou, and Zhenwei Shi. Random
+                  <p><strong>Zhengxia Zou</strong>, and Zhenwei Shi. Random
                     access memories: A new paradigm for target detection in high
                     resolution aerial remote sensing images.&nbsp;<i><i><i><em>IEEE
                             Transactions on Image Processing,</em></i> 2018</i>.</i></p>
@@ -663,8 +664,8 @@
                     src="zzx_gallery/thumb-SVDNet.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p>Zhengxia Zou, and Zhenwei Shi. Ship Detection in Spaceborne
-                    Optical Image With SVD Networks.&nbsp;<i><i><i><em>IEEE
+                  <p><b>Zhengxia Zou</b>, and Zhenwei Shi. Ship Detection in
+                    Spaceborne Optical Image With SVD Networks.&nbsp;<i><i><i><em>IEEE
                             Transactions on Geoscience and Remote Sensing,</em></i>
                         2016</i>.</i></p>
                   <p> </p>
@@ -676,10 +677,11 @@
                     src="zzx_gallery/thumb-AdaBSF.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p>Zhenwei Shi (Ph.D. supervisor), Zhengxia Zou, Changshui
-                    Zhang. Real-time Traffic Light Detection with Adaptive
-                    Background Suppression Filter. <i>IEEE Transactions on
-                      Intelligent Transportation Systems<em>, 2015</em>.</i></p>
+                  <p>Zhenwei Shi (Ph.D. supervisor), <b>Zhengxia Zou</b>,
+                    Changshui Zhang. Real-time Traffic Light Detection with
+                    Adaptive Background Suppression Filter. <i>IEEE
+                      Transactions on Intelligent Transportation Systems<em>,
+                        2015</em>.</i></p>
                   <p> </p>
                 </div>
               </div>
@@ -689,7 +691,7 @@
                     src="zzx_gallery/thumb-RSCaption.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p>Zhenwei Shi (Ph.D. supervisor), and Zhengxia Zou*
+                  <p>Zhenwei Shi (Ph.D. supervisor), and <b>Zhengxia Zou</b>*
                     (Corresponding author). Can a machine generate humanlike
                     language descriptions for a remote sensing image? <i><i><i><em>IEEE
                             Transactions on Geoscience and Remote Sensing,</em></i>
@@ -703,8 +705,8 @@
                     src="zzx_gallery/thumb-HCEM.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p>Zhengxia Zou, and Zhenwei Shi. Hierarchical suppression
-                    method for hyperspectral target detection. <i>IEEE
+                  <p><b>Zhengxia Zou</b>, and Zhenwei Shi. Hierarchical
+                    suppression method for hyperspectral target detection. <i>IEEE
                       Transactions on Geoscience and Remote Sensing, 2015.</i></p>
                   <p> </p>
                 </div>
