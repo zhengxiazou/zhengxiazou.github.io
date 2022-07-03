@@ -125,7 +125,7 @@
                   <li><i><b>40+ peer-reviewed publications, including 20+
                         top-tier journals and conferences (TPAMI, TIP, CVPR,
                         ICCV, AAAI, ICRA, ... )&nbsp; </b></i></li>
-                  <li><i><b><i><b>1900+ Google Scholar citations, </b></i>4000+
+                  <li><i><b><i><b>2000+ Google Scholar citations, </b></i>4000+
                         GitHub Stars/Forks </b></i></li>
                   <li><i> <b>Two papers selected in PaperWithCode "Top-10
                         Trending Research" and "GitHub Trending Repositories"<br>
@@ -348,9 +348,10 @@
                     src="zzx_gallery/thumb-SkyAR.gif"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Zhengxia Zou. Castle in the Sky: Dynamic Sky Replacement
-                    and Harmonization in Videos. <em>CoRR, abs/2010.118003,
-                      2020, submitted to ****. </em><a href="https://arxiv.org/abs/2010.11800"
+                  <p> Zhengxia Zou, Rui Zhao, Tianyang Shi, Shuang Qiu, and
+                    Zhenwei Shi. Castle in the Sky: Dynamic Sky Replacement and
+                    Harmonization in Videos. <em>IEEE Transactions on Image
+                      Processing.&nbsp; </em><a href="https://arxiv.org/abs/2010.11800"
                       target="_blank">[PDF]</a><em> </em><a href="https://www.youtube.com/watch?v=zal9Ues0aOQ"
                       target="_blank">[1min-DemoVideo]</a> <a href="https://jiupinjia.github.io/skyar/"
                       target="_blank">[Project] </a><a href="https://github.com/jiupinjia/SkyAR"
