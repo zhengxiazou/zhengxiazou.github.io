@@ -431,10 +431,25 @@
                   <p></p>
                   <p> Yongchang Wu, <b>Zhengxia Zou</b>* (*Corresponding
                     author), and Zhenwei Shi. Remote Sensing Novel View
-                    Synthesis with Implicit Multiplane Representations. <em>CoRR,
-                      abs/2205.08908, 2022, submitted to IEEE TGRS</em><em></em><em><i><em></em></i><em></em><em></em>.</em>
+                    Synthesis with Implicit Multiplane Representations. <i><em>IEEE
+                        Transactions on Geoscience and Remote Sensing, 2022</em></i><em></em><em><i><em></em></i><em></em><em></em>.</em>
                     <em> </em><a href="https://arxiv.org/abs/2205.08908" target="_blank">[PDF]</a><em>
                     </em><a href="https://github.com/wyc-Chang/ImMPI" target="_blank">[Github]</a>
+                  </p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                    src="zzx_gallery/thumb-PDASS.jpg"></div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p>Jianqi Chen, Keyan Chen, Hao Chen, Wenyuan Li, Zhengxia
+                    Zou* (*Corresponding author), and Zhenwei Shi. Contrastive
+                    Learning for Fine-grained Ship Classification in Remote
+                    Sensing Images.&nbsp; <i><em>IEEE Transactions on
+                        Geoscience and Remote Sensing, 2022</em></i>. <em> </em><a
+                      href="https://ieeexplore.ieee.org/document/9832938/" target="_blank">[PDF]</a><em></em>
                   </p>
                 </div>
               </div>
