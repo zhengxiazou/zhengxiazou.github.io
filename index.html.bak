@@ -87,7 +87,7 @@
                 target="_blank">IOS App Store</a> ) <span style="color: #23527c;"><span
                   style="color: #333333;">and 你我当年 </span></span>( <a href="https://app.mi.com/details?id=com.bigwinepot.nwdn"
                 target="_blank">XIAOMI App Sstore</a> | <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
-                target="_blank">IOS App Store </a>), with over 50M users
+                target="_blank">IOS App Store </a>), with over 10M users
               worldwide.</p>
             <p>NEW (02/2021): One paper accepted to CVPR 2021, oral
               presentation.</p>
@@ -198,9 +198,10 @@
                     src="zzx_gallery/thumb-T2P.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> Rui Zhao, Wei Li, Zhipeng Hu, Lincheng Li, <b>Zhengxia
-                      Zou</b> (*Corresponding author), Zhenwei Shi, Changjie Fan<strong></strong>.
-                    Zero-Shot Text-to-Parameter Translation for Game Character
+                  <p> Rui Zhao, Wei Li, Zhipeng Hu, Lincheng Li (*Corresponding
+                    author), <b>Zhengxia Zou</b> (*Corresponding author),
+                    Zhenwei Shi, Changjie Fan<strong></strong>. Zero-Shot
+                    Text-to-Parameter Translation for Game Character
                     Auto-Creation. Accepted to <em><em>IEEE Conference on
                         Computer Vision and Pattern Recognition (CVPR) 2023</em></em><i>.</i>
                     <br>
