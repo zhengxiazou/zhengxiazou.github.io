@@ -74,6 +74,8 @@
               by Proceedings of the IEEE<em>.</em></p>
             <p> NEW (10/2022): I was listed in the top 2% scientists worldwide
               identified by Stanford University<em>.</em></p>
+            <p>NEW (07/2022): One paper accepted to IEEE Transactions on Image
+              Processing (TIP)<em>.</em></p>
             <p>NEW (02/2022): One paper accepted to ICRA 2022<em>.</em></p>
             <p>NEW (12/2021): One paper accepted to AAAI 2022, oral presentation<em>.</em></p>
             <p>NEW (06/2021): <a href="https://jiupinjia.github.io/neuralpainter/"
@@ -214,10 +216,11 @@
                 <div class="col-sm-9">
                   <p></p>
                   <p> Tianyang Shi*, <b><strong></strong>Zhengxia Zou</b>*
-                    (*equal contribution), Zhenwei Shi, and Yi Yuan<strong></strong>.
-                    Neural Rendering for Game Character Auto-creation. <i><i>IEEE
-                        Transactions on Pattern Analysis and Machine
-                        Intelligence, 2022</i>. </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
+                    (*equal contribution), Zhenwei Shi, and Yi Yuan
+                    (*Corresponding author)<strong></strong>. Neural Rendering
+                    for Game Character Auto-creation. <i><i>IEEE Transactions
+                        on Pattern Analysis and Machine Intelligence, 2022</i>.
+                    </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
                       target="_blank">[PDF]</a> <br>
                   </p>
                   <p> </p>
@@ -278,10 +281,10 @@
                   <p></p>
                   <p> <b>Zhengxia Zou</b>, Rusheng Zhang, Shengyin Shen, Gaurav
                     Pandey, Punarjay Chakravarty, Armin Parchami, and Henry X.
-                    Liu. Real-time Full-stack Traffic Scene Perception for
-                    Autonomous Driving with Roadside Cameras. <em><i>The
-                        International Conference on Robotics and Automation
-                        (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.</em><a
+                    Liu (*Corresponding author). Real-time Full-stack Traffic
+                    Scene Perception for Autonomous Driving with Roadside
+                    Cameras. <em><i>The International Conference on Robotics
+                        and Automation (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.</em><a
                       href="https://www.youtube.com/watch?v=RkiKe5UNzXA" target="_blank">
                       <em> </em></a><a href="https://arxiv.org/abs/2206.09770"
                       target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=RkiKe5UNzXA"
@@ -442,10 +445,11 @@
                     src="zzx_gallery/thumb-RAM.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p><strong>Zhengxia Zou</strong>, and Zhenwei Shi. Random
-                    access memories: A new paradigm for target detection in high
-                    resolution aerial remote sensing images.&nbsp;<i><i><i><em>IEEE
-                            Transactions on Image Processing,</em></i> 2018</i>.</i></p>
+                  <p><strong>Zhengxia Zou</strong>, and Zhenwei Shi
+                    (*Corresponding author). Random access memories: A new
+                    paradigm for target detection in high resolution aerial
+                    remote sensing images.&nbsp;<i><i><i><em>IEEE Transactions
+                            on Image Processing,</em></i> 2018</i>.</i></p>
                   <p> </p>
                 </div>
               </div>
@@ -455,10 +459,10 @@
                     src="zzx_gallery/thumb-SVDNet.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p><b>Zhengxia Zou</b>, and Zhenwei Shi. Ship Detection in
-                    Spaceborne Optical Image With SVD Networks.&nbsp;<i><i><i><em>IEEE
-                            Transactions on Geoscience and Remote Sensing,</em></i>
-                        2016</i>.</i></p>
+                  <p><b>Zhengxia Zou</b>, and Zhenwei Shi (*Corresponding
+                    author). Ship Detection in Spaceborne Optical Image With SVD
+                    Networks.&nbsp;<i><i><i><em>IEEE Transactions on Geoscience
+                            and Remote Sensing,</em></i> 2016</i>.</i></p>
                   <p> </p>
                 </div>
               </div>
@@ -482,9 +486,10 @@
                     src="zzx_gallery/thumb-HCEM.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p><b>Zhengxia Zou</b>, and Zhenwei Shi. Hierarchical
-                    suppression method for hyperspectral target detection. <i>IEEE
-                      Transactions on Geoscience and Remote Sensing, 2015.</i></p>
+                  <p><b>Zhengxia Zou</b>, and Zhenwei Shi (*Corresponding
+                    author). Hierarchical suppression method for hyperspectral
+                    target detection. <i>IEEE Transactions on Geoscience and
+                      Remote Sensing, 2015.</i></p>
                   <p> </p>
                 </div>
               </div>
