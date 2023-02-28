@@ -69,15 +69,13 @@
                   style="color: #cc0000;">Intern </span>positions are always
                 available. Please email me with your CV if you are interested.</span>
             </p>
+            <p>NEW (02/2023): One paper accepted to CVPR 2023.</p>
             <p>NEW (01/2023): Our survey paper on object detection got accepted
               by Proceedings of the IEEE<em>.</em></p>
             <p> NEW (10/2022): I was listed in the top 2% scientists worldwide
               identified by Stanford University<em>.</em></p>
-            <p> NEW (06/2022): One paper accepted to ACM MM 2022<em>.</em></p>
             <p>NEW (02/2022): One paper accepted to ICRA 2022<em>.</em></p>
             <p>NEW (12/2021): One paper accepted to AAAI 2022, oral presentation<em>.</em></p>
-            <p>NEW (08/2021): One paper accepted to ICCV 2021, oral
-              presentation.</p>
             <p>NEW (06/2021): <a href="https://jiupinjia.github.io/neuralpainter/"
                 target="_blank">Stylized Neural Painting</a> launched as a new
               feature in two AI photo editors: <span style="color: #23527c;"><span
@@ -89,7 +87,8 @@
                 target="_blank">XIAOMI App Sstore</a> | <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
                 target="_blank">IOS App Store </a>), with over 50M users
               worldwide.</p>
-            <p>NEW (02/2021): One paper accepted to CVPR 2021, oral presentation.</p>
+            <p>NEW (02/2021): One paper accepted to CVPR 2021, oral
+              presentation.</p>
             <p>NEW (01/2021): One paper accepted to IEEE Transactions on Image
               Processing (TIP)<em></em>.</p>
             <p> </p>
@@ -163,9 +162,10 @@
                     src="zzx_gallery/thumb-DetectionSurvey.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> <b>Zhengxia Zou</b>, Zhenwei Shi, Yuhong Guo, and Jieping
-                    Ye. Object Detection in 20 Years: A Survey. <i>Proceedings
-                      of the IEEE</i>, 2023, In press. [1100+ citations] <a href="https://ieeexplore.ieee.org/document/10028728"
+                  <p> <b>Zhengxia Zou</b> (*Corresponding author), Zhenwei Shi,
+                    Yuhong Guo, and Jieping Ye (*Corresponding author). Object
+                    Detection in 20 Years: A Survey. <i>Proceedings of the IEEE</i>,
+                    2023, In press. [1100+ citations] <a href="https://ieeexplore.ieee.org/document/10028728"
                       target="_blank">[PDF]</a></p>
                   Extensively reviews 400+ papers of object detection in the
                   light of technical evolution, spanning over a
@@ -187,6 +187,23 @@
                     target="_blank"><u>English-to-Chinese (1)</u></a> |&nbsp; <a
                     href="https://blog.csdn.net/clover_my/article/details/92794719"
                     target="_blank"><u>English-to-Chinese (2)</u></a>&nbsp;
+                  <p></p>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                    src="zzx_gallery/thumb-T2P.jpg"> </div>
+                <div class="col-sm-9">
+                  <p></p>
+                  <p> Rui Zhao, Wei Li, Zhipeng Hu, Lincheng Li, <b>Zhengxia
+                      Zou</b> (*Corresponding author), Zhenwei Shi, Changjie Fan<strong></strong>.
+                    Zero-Shot Text-to-Parameter Translation for Game Character
+                    Auto-Creation. Accepted to <em><em>IEEE Conference on
+                        Computer Vision and Pattern Recognition (CVPR) 2023</em></em><i>.</i>
+                    <br>
+                  </p>
+                  <p> </p>
                   <p></p>
                 </div>
               </div>
@@ -223,13 +240,14 @@
                     src="zzx_gallery/thumb-SkyAR.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> <b>Zhengxia Zou</b>, Rui Zhao, Tianyang Shi, Shuang Qiu,
-                    and Zhenwei Shi. Castle in the Sky: Dynamic Sky Replacement
-                    and Harmonization in Videos. <em>IEEE Transactions on Image
-                      Processing,</em> 2022. In press. <a href="https://arxiv.org/abs/2010.11800"
-                      target="_blank">[PDF]</a><em> </em><a href="https://jiupinjia.github.io/skyar/"
-                      target="_blank">[Project] </a><a href="https://github.com/jiupinjia/SkyAR"
-                      target="_blank">[GitHub </a><a href="https://github.com/jiupinjia/stylized-neural-painting"
+                  <p> <b>Zhengxia Zou </b>(*Corresponding author), Rui Zhao,
+                    Tianyang Shi, Shuang Qiu, and Zhenwei Shi. Castle in the
+                    Sky: Dynamic Sky Replacement and Harmonization in Videos. <em>IEEE
+                      Transactions on Image Processing,</em> 2022. In press. <a
+                      href="https://arxiv.org/abs/2010.11800" target="_blank">[PDF]</a><em>
+                    </em><a href="https://jiupinjia.github.io/skyar/" target="_blank">[Project]
+                      </a><a href="https://github.com/jiupinjia/SkyAR" target="_blank">[GitHub
+                      </a><a href="https://github.com/jiupinjia/stylized-neural-painting"
                       target="_blank">(1.9k☆)</a><a href="https://github.com/jiupinjia/SkyAR"
                       target="_blank">]</a></p>
                   <p><b><b><b>- Featured </b>apps:</b></b><span style="color: #337ab7;"></span>
@@ -253,7 +271,9 @@
               <br>
               <div class="row">
                 <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
-                    src="zzx_gallery/thumb-roadside.jpg"></div>
+                    src="zzx_gallery/thumb-roadside.jpg"><br>
+                  <br>
+                </div>
                 <div class="col-sm-9">
                   <p></p>
                   <p> <b>Zhengxia Zou</b>, Rusheng Zhang, Shengyin Shen, Gaurav
@@ -270,11 +290,8 @@
                     located at Ellsworth Rd. and State St., Ann Arbor, MI, USA,
                     providing 7x24 real-time traffic flow monitoring for
                     hazardous driving scenarios identification.</p>
-                  <p><br>
-                  </p>
                 </div>
               </div>
-              <br>
               <div class="row">
                 <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
                     src="zzx_gallery/thumb-ImMPI.jpg"></div>
@@ -341,10 +358,10 @@
                     src="zzx_gallery/thumb-painting.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> <b>Zhengxia Zou</b>, Tianyang Shi, Shuang Qiu, Yi Yuan,
-                    and Zhenwei Shi. Stylized Neural Painting.&nbsp;<em><em>IEEE
-                        Conference on Computer Vision and Pattern Recognition
-                        (CVPR) 2021, <span style="color: #cc0000;">Oral
+                  <p> <b>Zhengxia Zou </b>(*Corresponding author), Tianyang
+                    Shi, Shuang Qiu, Yi Yuan, and Zhenwei Shi. Stylized Neural
+                    Painting.&nbsp;<em><em>IEEE Conference on Computer Vision
+                        and Pattern Recognition (CVPR) 2021, <span style="color: #cc0000;">Oral
                           Presentation</span>.</em></em><em> </em><a href="https://arxiv.org/abs/2011.08114"
                       target="_blank">[PDF]</a><em> </em><a href="https://jiupinjia.github.io/neuralpainter/"
                       target="_blank">[Project] </a><a href="https://github.com/jiupinjia/stylized-neural-painting"
@@ -379,11 +396,11 @@
                     src="zzx_gallery/thumb-DAD.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> <b>Zhengxia Zou</b>, Sen Lei, Tianyang Shi, Zhenwei Shi,
-                    and Jieping Ye. Deep Adversarial Decomposition: A Unified
-                    Framework for Separating Superimposed Images. <em>IEEE
-                      Conference on Computer Vision and Pattern Recognition
-                      (CVPR) 2020. </em><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.pdf"
+                  <p> <b>Zhengxia Zou</b> (*Corresponding author), Sen Lei,
+                    Tianyang Shi, Zhenwei Shi, and Jieping Ye. Deep Adversarial
+                    Decomposition: A Unified Framework for Separating
+                    Superimposed Images. <em>IEEE Conference on Computer Vision
+                      and Pattern Recognition (CVPR) 2020. </em><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.pdf"
                       target="_blank">[PDF]</a><em></em> <a href="https://github.com/jiupinjia/Deep-adversarial-decomposition"
                       target="_blank">[Github]</a></p>
                 </div>
@@ -394,12 +411,13 @@
                     src="zzx_gallery/thumb-inverseGANs.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> <b>Zhengxia Zou</b>, Tianyang Shi, Zhenwei Shi, and
-                    Jieping Ye. Adversarial Training for Solving Inverse
-                    Problems in Image Processing. <i><em>IEEE Transactions on
-                        Image Processing, </em></i><em>2021. </em><a href="https://ieeexplore.ieee.org/document/9337199"
-                      target="_blank">[PDF]</a><em> </em><a href="https://www.youtube.com/watch?v=3ZNinJUlXNc"
-                      target="_blank">[1min-DemoVideo]</a> <a href="https://github.com/jiupinjia/GANs-for-Inverse-Problems"
+                  <p> <b>Zhengxia Zou</b> (*Corresponding author), Tianyang
+                    Shi, Zhenwei Shi, and Jieping Ye. Adversarial Training for
+                    Solving Inverse Problems in Image Processing. <i><em>IEEE
+                        Transactions on Image Processing, </em></i><em>2021. </em><a
+                      href="https://ieeexplore.ieee.org/document/9337199" target="_blank">[PDF]</a><em>
+                    </em><a href="https://www.youtube.com/watch?v=3ZNinJUlXNc" target="_blank">[1min-DemoVideo]</a>
+                    <a href="https://github.com/jiupinjia/GANs-for-Inverse-Problems"
                       target="_blank">[Github]</a></p>
                 </div>
               </div>
@@ -409,10 +427,11 @@
                     src="zzx_gallery/thumb-cloudgan.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
-                  <p> <b>Zhengxia Zou</b>, Wenyuan Li, Tianyang Shi, Zhenwei
-                    Shi, and Jieping Ye. Generative Adversarial Training for
-                    Weakly Supervised Cloud Matting. <i>IEEE International
-                      Conference on Computer Vision (ICCV) 2019.</i> <a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html"
+                  <p> <b>Zhengxia Zou</b> (*Corresponding author), Wenyuan Li,
+                    Tianyang Shi, Zhenwei Shi, and Jieping Ye. Generative
+                    Adversarial Training for Weakly Supervised Cloud Matting. <i>IEEE
+                      International Conference on Computer Vision (ICCV) 2019.</i>
+                    <a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html"
                       target="_blank">[PDF]</a> <a href="https://github.com/jiupinjia/CloudMattingGAN"
                       target="_blank">[Github]</a></p>
                 </div>
