@@ -138,8 +138,8 @@
                       </i></i><i><i><i><i><a href="http://www.news.cn/politics/2022-03/02/c_1128428941.htm"
                               target="_blank">新华社</a>,</i></i> <a href="http://tv.cctv.com/2022/01/19/VIDEJ78zT7md9otWzW5qgT6N220119.shtml"
                           target="_blank">中央电视台</a>,</i><a href="https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/"
-                        target="_blank"> TheNextWeb</a>,<a href="https://www.youtube.com/watch?v=l_C3KFeI_l0"
-                        target="_blank">Two-Minute-Papers</a>, <a href="https://www.jiqizhixin.com/articles/2020-10-25"
+                        target="_blank"> TheNextWeb</a>, <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/"
+                        target="_blank">New Scientist</a>, <a href="https://www.jiqizhixin.com/articles/2020-10-25"
                         target="_blank">机器之心</a>, <a href="https://mp.weixin.qq.com/s/xowoCSI6yIrzPTavz4OiLg"
                         target="_blank">量子位</a>...</i> </li>
                 </ul>
@@ -155,9 +155,8 @@
         <div class="container">
           <div class="panel panel-default">
             <div class="panel-heading"><b>Selected publications and preprints
-                from 2019 to 2021 (</b><b><b>*For my full publication list,
-                  please go to my <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;amp;hl=en"
-                    target="_blank">google scholar profile</a></b>)</b> </div>
+                (*For my full publication list, please go to my <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;amp;hl=en"
+                  target="_blank">google scholar profile</a>)</b> </div>
             <div class="panel-body">
               <div class="row">
                 <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
@@ -208,6 +207,14 @@
                   </p>
                   <p> </p>
                   <p></p>
+                  <p> </p>
+                  <p></p>
+                  <p> </p>
+                  <b>- Media coverage:</b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/"
+                    target="_blank"><u>[New Scientist (新科学人)] Character creator
+                      AI puts Barack Obama – or anyone – in a video game</u></a>
+                  <br>
+                  <p></p>
                 </div>
               </div>
               <br>
@@ -249,11 +256,9 @@
                     Sky: Dynamic Sky Replacement and Harmonization in Videos. <em>IEEE
                       Transactions on Image Processing,</em> 2022. In press. <a
                       href="https://arxiv.org/abs/2010.11800" target="_blank">[PDF]</a><em>
-                    </em><a href="https://jiupinjia.github.io/skyar/" target="_blank">[Project]
-                      </a><a href="https://github.com/jiupinjia/SkyAR" target="_blank">[GitHub
-                      </a><a href="https://github.com/jiupinjia/stylized-neural-painting"
-                      target="_blank">(1.9k☆)</a><a href="https://github.com/jiupinjia/SkyAR"
-                      target="_blank">]</a></p>
+                    </em><a href="https://jiupinjia.github.io/skyar/" target="_blank">[Project]</a>
+                    [<a target="_blank" href="https://github.com/jiupinjia/SkyAR">GitHub
+                      (1.9k☆)</a>]</p>
                   <p><b><b><b>- Featured </b>apps:</b></b><span style="color: #337ab7;"></span>
                     <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI"
                       target="_blank"><u>Weights &amp; Biases</u></a>, a ML
