@@ -41,15 +41,19 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-sm-4"> <img class="img-responsive img-rounded" style="width:100%"
+          <div class="col-sm-4"> <img class="img-responsive img-rounded" style="width:100%"
+
               src="zzx_gallery/zzx3.jpg"> </div>
           <div class="col-sm-8">
             <p></p>
-            I am currently a Professor at the School of Astronautics, <a href="https://www.buaa.edu.cn/"
+            I am currently a Professor at the School of Astronautics, <a href="https://www.buaa.edu.cn/"
+
               target="_blank">Beihang University</a>. I received my Ph.D. and
-            B.S. from Beihang University in 2018 and 2013, supervised by Prof. <a
+            B.S. from Beihang University in 2018 and 2013, supervised by Prof. <a
+
               href="http://levir.buaa.edu.cn/" target="_blank">Zhenwei Shi</a>.
-            During 2018 - 2021, I was a postdoc research fellow at the <a href="https://umich.edu/"
+            During 2018 - 2021, I was a postdoc research fellow at the <a href="https://umich.edu/"
+
               target="_blank">University of Michigan, Ann Arbor</a>, working
             with <a href="http://www.yelabs.net/" target="_blank">Prof. Jieping
               Ye</a> and <a href="https://traffic.engin.umich.edu/" target="_blank">Prof.
@@ -60,12 +64,15 @@
             edu [dot] cn
             <p></p>
             <a href="https://shi.buaa.edu.cn/zouzhengxia" target="_blank">[中文主页]</a>
-            | <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;hl=en"
-              target="_blank">[Google Scholar Profile]</a> | <a href="https://github.com/jiupinjia"
+            | <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;hl=en"
+
+              target="_blank">[Google Scholar Profile]</a> | <a href="https://github.com/jiupinjia"
+
               target="_blank">[Github Profile]</a><br>
             <p></p>
             <p><span style="color: #cc0000;">[Intern position]: I am hiring
-                self-motivated graduate/undergraduate students. </span><span style="color: #cc0000;"><span
+                self-motivated graduate/undergraduate students. </span><span style="color: #cc0000;"><span
+
                   style="color: #cc0000;">Intern </span>positions are always
                 available. Please email me with your CV if you are interested.</span>
             </p>
@@ -81,15 +88,23 @@
               Processing (TIP)<em>.</em></p>
             <p>NEW (02/2022): One paper accepted to ICRA 2022<em>.</em></p>
             <p>NEW (12/2021): One paper accepted to AAAI 2022, oral presentation<em>.</em></p>
-            <p>NEW (06/2021): <a href="https://jiupinjia.github.io/neuralpainter/"
+            <p>NEW (06/2021): <a href="https://jiupinjia.github.io/neuralpainter/"
+
                 target="_blank">Stylized Neural Painting</a> launched as a new
-              feature in two AI photo editors: <span style="color: #23527c;"><span
-                  style="color: #333333;">REMINI</span></span><span style="color: #23527c;"><span
-                  style="color: #333333;"> ( </span></span><a href="https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international&amp;hl=en_US&amp;gl=US"
-                target="_blank">Google Play</a> | <a href="https://apps.apple.com/us/app/remini-ai-photo-enhancer/id1470373330"
-                target="_blank">IOS App Store</a> ) <span style="color: #23527c;"><span
-                  style="color: #333333;">and 你我当年 </span></span>( <a href="https://app.mi.com/details?id=com.bigwinepot.nwdn"
-                target="_blank">XIAOMI App Sstore</a> | <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
+              feature in two AI photo editors: <span style="color: #23527c;"><span
+
+                  style="color: #333333;">REMINI</span></span><span style="color: #23527c;"><span
+
+                  style="color: #333333;"> ( </span></span><a href="https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international&amp;hl=en_US&amp;gl=US"
+
+                target="_blank">Google Play</a> | <a href="https://apps.apple.com/us/app/remini-ai-photo-enhancer/id1470373330"
+
+                target="_blank">IOS App Store</a> ) <span style="color: #23527c;"><span
+
+                  style="color: #333333;">and 你我当年 </span></span>( <a href="https://app.mi.com/details?id=com.bigwinepot.nwdn"
+
+                target="_blank">XIAOMI App Sstore</a> | <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
+
                 target="_blank">IOS App Store </a>), with over 10M users
               worldwide.</p>
             <p>NEW (02/2021): One paper accepted to CVPR 2021, oral
@@ -115,7 +130,7 @@
                   <li><i>50+ peer-reviewed publications, including 30+ top-tier
                       journals and conferences ( Nature, Proc IEEE, TPAMI, TIP,
                       CVPR, IC CV, AAAI, ICRA, ... )&nbsp; </i></li>
-                  <li><i><i>2900+ Google Scholar citations, </i>4000+ GitHub
+                  <li><i><i>3000+ Google Scholar citations, </i>4000+ GitHub
                       Stars/Forks </i></li>
                   <li><i> Two papers selected in PaperWithCode "Top-10 Trending
                       Research" and "GitHub Trending Repositories"<b><br>
@@ -125,23 +140,37 @@
               <div class="col-sm-6">
                 <ul>
                   <li><i>Featured in 10+ platforms with over 10M registered
-                      users worldwide, including </i><i><i><i><a href="https://mcity.umich.edu/"
-                            target="_blank">MCITY</a>,</i> </i></i><i> <a href="https://apps.apple.com/us/app/remini-ai-photo-enhancer/id1470373330"
-                        target="_blank"> REMINI</a>, <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4/id1461690800?l=en"
-                        target="_blank">你我当年</a>, </i><i><a href="https://n.163.com/"
-                        target="_blank">Justice</a>, <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
-                        target="_blank">Heaven Mobile</a>, <a href="https://wandb.ai/site"
-                        target="_blank">Weights&amp;Biases</a>, <a href="https://replicate.ai/"
-                        target="_blank">REPLICATE AI</a>, <a href="https://runwayml.com/"
+                      users worldwide, including </i><i><i><i><a href="https://mcity.umich.edu/"
+
+                            target="_blank">MCITY</a>,</i> </i></i><i> <a href="https://apps.apple.com/us/app/remini-ai-photo-enhancer/id1470373330"
+
+                        target="_blank"> REMINI</a>, <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4/id1461690800?l=en"
+
+                        target="_blank">你我当年</a>, </i><i><a href="https://n.163.com/"
+
+                        target="_blank">Justice</a>, <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
+
+                        target="_blank">Heaven Mobile</a>, <a href="https://wandb.ai/site"
+
+                        target="_blank">Weights&amp;Biases</a>, <a href="https://replicate.ai/"
+
+                        target="_blank">REPLICATE AI</a>, <a href="https://runwayml.com/"
+
                         target="_blank"> RUNWAYML</a></i><i>...<br>
                     </i></li>
                   <li><i>Covered by 30+ high-impact tech-media, including</i><i><i>
-                      </i></i><i><i><i><i><a href="http://www.news.cn/politics/2022-03/02/c_1128428941.htm"
-                              target="_blank">新华社</a>,</i></i> <a href="http://tv.cctv.com/2022/01/19/VIDEJ78zT7md9otWzW5qgT6N220119.shtml"
-                          target="_blank">中央电视台</a>,</i><a href="https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/"
-                        target="_blank"> TheNextWeb</a>, <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/"
-                        target="_blank">New Scientist</a>, <a href="https://www.jiqizhixin.com/articles/2020-10-25"
-                        target="_blank">机器之心</a>, <a href="https://mp.weixin.qq.com/s/xowoCSI6yIrzPTavz4OiLg"
+                      </i></i><i><i><i><i><a href="http://www.news.cn/politics/2022-03/02/c_1128428941.htm"
+
+                              target="_blank">新华社</a>,</i></i> <a href="http://tv.cctv.com/2022/01/19/VIDEJ78zT7md9otWzW5qgT6N220119.shtml"
+
+                          target="_blank">中央电视台</a>,</i><a href="https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/"
+
+                        target="_blank"> TheNextWeb</a>, <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/"
+
+                        target="_blank">New Scientist</a>, <a href="https://www.jiqizhixin.com/articles/2020-10-25"
+
+                        target="_blank">机器之心</a>, <a href="https://mp.weixin.qq.com/s/xowoCSI6yIrzPTavz4OiLg"
+
                         target="_blank">量子位</a>...</i> </li>
                 </ul>
               </div>
@@ -156,18 +185,21 @@
         <div class="container">
           <div class="panel panel-default">
             <div class="panel-heading"><b>Selected publications and preprints
-                (*For my full publication list, please go to my <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;amp;hl=en"
+                (*For my full publication list, please go to my <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;amp;hl=en"
+
                   target="_blank">google scholar profile</a>)</b> </div>
             <div class="panel-body">
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-DetectionSurvey.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
                   <p> <b>Zhengxia Zou*</b> (*Corresponding author), Zhenwei
                     Shi, Yuhong Guo, and Jieping Ye (*Corresponding author).
                     Object Detection in 20 Years: A Survey. <i>Proceedings of
-                      the IEEE</i>, 2023, In press. [1100+ citations] <a href="https://ieeexplore.ieee.org/document/10028728"
+                      the IEEE</i>, 2023, In press. [1100+ citations] <a href="https://ieeexplore.ieee.org/document/10028728"
+
                       target="_blank">[PDF]</a></p>
                   Extensively reviews 400+ papers of object detection in the
                   light of technical evolution, spanning over a
@@ -177,34 +209,43 @@
                   blocks of detection systems, speed up techniques, and the
                   recent state of the art detection methods.
                   <p></p>
-                  <b>- High-impact citations:&nbsp;</b> <a href="http://cs231n.stanford.edu/slides/2020/lecture_12.pdf"
+                  <b>- High-impact citations:&nbsp;</b> <a href="http://cs231n.stanford.edu/slides/2020/lecture_12.pdf"
+
                     target="_blank"><u>Stanford CS231n: Convolutional Neural
                       Networks for Visual Recognition (2019-2022).</u></a>
                   <p></p>
                   <p></p>
-                  <b>- Media coverage:</b> <a href="https://www.zhuanzhi.ai/document/50b8a2fec4a9ad5561b8694d16a1dffb"
+                  <b>- Media coverage:</b> <a href="https://www.zhuanzhi.ai/document/50b8a2fec4a9ad5561b8694d16a1dffb"
+
                     target="_blank"><u>[专知] 密歇根大学40页最新论文带你全面了解目标检测</u></a>&nbsp;
                   <p></p>
-                  <b>- In other languages:</b>&nbsp; <a href="https://ai.yanxishe.com/page/postDetail/14275"
-                    target="_blank"><u>English-to-Chinese (1)</u></a> |&nbsp; <a
-                    href="https://blog.csdn.net/clover_my/article/details/92794719"
+                  <b>- In other languages:</b>&nbsp; <a href="https://ai.yanxishe.com/page/postDetail/14275"
+
+                    target="_blank"><u>English-to-Chinese (1)</u></a> |&nbsp; <a
+
+                    href="https://blog.csdn.net/clover_my/article/details/92794719"
+
                     target="_blank"><u>English-to-Chinese (2)</u></a>&nbsp;
                   <p></p>
                 </div>
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/nature.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
                   <p> Shuo Feng, Haowei Sun, Xintao Yan, Haojie Zhu, <b>Zhengxia
                       Zou</b>, Shengyin Shen, Henry X. Liu* (*Corresponding
                     author). Dense Reinforcement Learning for Safety Validation
-                    of Autonomous Vehicles. <i>Nature (featured on the cover of
-                      March 23, 2023 Issue)</i>, 2023<i>.</i> <em> </em><a href="https://www.nature.com/articles/s41586-023-05732-2"
-                      target="_blank">[PDF]</a><em> </em><a href="https://github.com/michigan-traffic-lab/Dense-Deep-Reinforcement-Learning"
-                      target="_blank">[Github]</a>&nbsp;<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
+                    of Autonomous Vehicles. <i>Nature (cover)</i>, 2023<i>.</i>
+                    <em> </em><a href="https://www.nature.com/articles/s41586-023-05732-2"
+
+                      target="_blank">[PDF]</a><em> </em><a href="https://github.com/michigan-traffic-lab/Dense-Deep-Reinforcement-Learning"
+
+                      target="_blank">[Github]</a>&nbsp;<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
+
                       target="_blank"></a><i> </i></p>
                   <p>One critical bottleneck that impedes the development and
                     deployment of autonomous vehicles is the prohibitively high
@@ -217,12 +258,15 @@
                     in an accelerated mode, without loss of unbiasedness.</p>
                   <p> </p>
                   <p> </p>
-                  <b>- Media coverage:</b> <a href="https://www.nature.com/articles/d41586-023-00798-4"
+                  <b>- Media coverage:</b> <a href="https://www.nature.com/articles/d41586-023-00798-4"
+
                     target="_blank"><u>[Nature News] Hazards help autonomous
-                      cars to drive safely.</u></a> | <a href="https://www.nature.com/articles/d41586-023-00867-8"
+                      cars to drive safely.</u></a> | <a href="https://www.nature.com/articles/d41586-023-00867-8"
+
                     target="_blank"><u>[Nature Podcast] How to make driverless
                       cars safer — expose them to lots of dangerous drivers</u></a>
-                  | <a href="https://news.engin.umich.edu/2023/03/simulated-terrible-drivers-cut-the-time-and-cost-of-av-testing-by-a-factor-of-one-thousand/"
+                  | <a href="https://news.engin.umich.edu/2023/03/simulated-terrible-drivers-cut-the-time-and-cost-of-av-testing-by-a-factor-of-one-thousand/"
+
                     target="_blank"><u>[Michigan Engineering] Simulated terrible
                       drivers cut the time and cost of AV testing by a factor of
                       one thousand</u></a>
@@ -231,7 +275,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-T2P.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
@@ -245,7 +290,8 @@
                   </p>
                   <p> </p>
                   <p> </p>
-                  <b>- Media coverage:</b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/"
+                  <b>- Media coverage:</b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/"
+
                     target="_blank"><u>[New Scientist (新科学人)] Character creator
                       AI puts Barack Obama – or anyone – in a video game</u></a>
                   <br>
@@ -254,7 +300,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-FaceParams-pami.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
@@ -263,47 +310,57 @@
                     (*Corresponding author)<strong></strong>. Neural Rendering
                     for Game Character Auto-creation. <i><i>IEEE Transactions
                         on Pattern Analysis and Machine Intelligence, 2022</i>.
-                    </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
+                    </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
+
                       target="_blank">[PDF]</a> <br>
                   </p>
                   <p> </p>
                   <b>- Featured apps:</b> <a href="https://n.163.com/" target="_blank">Justice</a>
-                  and <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
+                  and <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
+
                     target="_blank">Heaven Mobile</a>, two MMO-RPGs with 10M+
                   players worldwide
                   <p></p>
                   <p> </p>
-                  <b>- Media coverage:</b> <a href="http://tv.cctv.com/2022/01/19/VIDEJ78zT7md9otWzW5qgT6N220119.shtml"
+                  <b>- Media coverage:</b> <a href="http://tv.cctv.com/2022/01/19/VIDEJ78zT7md9otWzW5qgT6N220119.shtml"
+
                     target="_blank"><u>[CCTV经济信息联播]元宇宙应用渐热 记者走入“元宇宙”
-                      体验个性化“捏脸”和动作捕捉</u></a> | <a href="https://www.jiqizhixin.com/articles/2019-09-09-18"
+                      体验个性化“捏脸”和动作捕捉</u></a> | <a href="https://www.jiqizhixin.com/articles/2019-09-09-18"
+
                     target="_blank"><u>[机器之心] 只需一张自拍，网易伏羲用这种方法直接生成「个人专属」游戏角色</u></a><br>
                   <p></p>
                 </div>
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-SkyAR.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
                   <p> <b>Zhengxia Zou </b>(*Corresponding author), Rui Zhao,
                     Tianyang Shi, Shuang Qiu, and Zhenwei Shi. Castle in the
                     Sky: Dynamic Sky Replacement and Harmonization in Videos. <em>IEEE
-                      Transactions on Image Processing,</em> 2022. In press. <a
+                      Transactions on Image Processing,</em> 2022. In press. <a
+
                       href="https://arxiv.org/abs/2010.11800" target="_blank">[PDF]</a><em>
                     </em><a href="https://jiupinjia.github.io/skyar/" target="_blank">[Project]</a>
                     [<a target="_blank" href="https://github.com/jiupinjia/SkyAR">GitHub
                       (1.9k☆)</a>]</p>
                   <p><b><b><b>- Featured </b>apps:</b></b><span style="color: #337ab7;"></span>
-                    <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI"
+                    <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI"
+
                       target="_blank"><u>Weights &amp; Biases</u></a>, a ML
                     developer tool with 100,000+ practitioners </p>
                   <p> </p>
-                  <b>- Media coverage:</b> <a href="https://www.jiqizhixin.com/articles/2020-10-25"
+                  <b>- Media coverage:</b> <a href="https://www.jiqizhixin.com/articles/2020-10-25"
+
                     target="_blank"><u>[机器之心]
-                      建造自己的“天空之城”，密歇根大学博士后的这项研究可以虚空造物、偷天换日</u></a> | <a href="https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/"
+                      建造自己的“天空之城”，密歇根大学博士后的这项研究可以虚空造物、偷天换日</u></a> | <a href="https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/"
+
                     target="_blank"><u>[TNW] This open-source AI tool can make
-                      your video spectacular with...</u></a> | <a href="https://medium.com/better-programming/the-top-10-trending-machine-learning-projects-of-2020-d923bf31abb7"
+                      your video spectacular with...</u></a> | <a href="https://medium.com/better-programming/the-top-10-trending-machine-learning-projects-of-2020-d923bf31abb7"
+
                     target="_blank"><u>[Better Programming] The Top 10 Trending
                       ML Projects of 2020</u>&nbsp;</a>
                   <p></p>
@@ -314,7 +371,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-roadside.jpg"><br>
                   <br>
                 </div>
@@ -325,10 +383,13 @@
                     Liu (*Corresponding author). Real-time Full-stack Traffic
                     Scene Perception for Autonomous Driving with Roadside
                     Cameras. <em><i>The International Conference on Robotics
-                        and Automation (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.</em><a
+                        and Automation (ICRA), 2022</i></em><em><i><em></em></i><em></em><em></em>.</em><a
+
                       href="https://www.youtube.com/watch?v=RkiKe5UNzXA" target="_blank">
-                      <em> </em></a><a href="https://arxiv.org/abs/2206.09770"
-                      target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=RkiKe5UNzXA"
+                      <em> </em></a><a href="https://arxiv.org/abs/2206.09770"
+
+                      target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=RkiKe5UNzXA"
+
                       target="_blank">[1min-DemoVideo] </a> </p>
                   <p> <b>- Featured apps:</b> Deployed at a two-lane roundabout
                     located at Ellsworth Rd. and State St., Ann Arbor, MI, USA,
@@ -337,7 +398,8 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-ImMPI.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
@@ -352,7 +414,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-Finegrained.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
@@ -360,14 +423,16 @@
                       Zou</b>* (*Corresponding author), and Zhenwei Shi.
                     Contrastive Learning for Fine-grained Ship Classification in
                     Remote Sensing Images.&nbsp; <i><em>IEEE Transactions on
-                        Geoscience and Remote Sensing, 2022</em></i>. <em> </em><a
+                        Geoscience and Remote Sensing, 2022</em></i>. <em> </em><a
+
                       href="https://ieeexplore.ieee.org/document/9832938/" target="_blank">[PDF]</a><em></em>
                   </p>
                 </div>
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-PDASS.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
@@ -376,14 +441,17 @@
                     Remote Sensing Image Synthesis with Deep Conditional
                     Generative Adversarial Networks.&nbsp; <i><em>IEEE
                         Transactions on Geoscience and Remote Sensing, 2022</em></i>.
-                    <em> </em><a href="https://ieeexplore.ieee.org/document/9770778/"
-                      target="_blank">[PDF]</a><em> </em><a href="https://github.com/liuliqin/PDASS-Physics-informed-HSI-Synthesis-with-Deep-CGAN"
+                    <em> </em><a href="https://ieeexplore.ieee.org/document/9770778/"
+
+                      target="_blank">[PDF]</a><em> </em><a href="https://github.com/liuliqin/PDASS-Physics-informed-HSI-Synthesis-with-Deep-CGAN"
+
                       target="_blank">[Github]</a> </p>
                 </div>
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-SSMCT.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
@@ -398,7 +466,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-painting.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
@@ -406,22 +475,30 @@
                     Shi, Shuang Qiu, Yi Yuan, and Zhenwei Shi. Stylized Neural
                     Painting.&nbsp;<em><em>IEEE Conference on Computer Vision
                         and Pattern Recognition (CVPR) 2021, <span style="color: #cc0000;">Oral
-                          Presentation</span>.</em></em><em> </em><a href="https://arxiv.org/abs/2011.08114"
-                      target="_blank">[PDF]</a><em> </em><a href="https://jiupinjia.github.io/neuralpainter/"
-                      target="_blank">[Project] </a><a href="https://github.com/jiupinjia/stylized-neural-painting"
+                          Presentation</span>.</em></em><em> </em><a href="https://arxiv.org/abs/2011.08114"
+
+                      target="_blank">[PDF]</a><em> </em><a href="https://jiupinjia.github.io/neuralpainter/"
+
+                      target="_blank">[Project] </a><a href="https://github.com/jiupinjia/stylized-neural-painting"
+
                       target="_blank">[GitHub (1.5k☆)]</a></p>
-                  <p> <b><b>- Featured </b>apps:</b> <a href="https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international&amp;hl=en_US&amp;gl=US"
-                      target="_blank">REMINI</a> and <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
+                  <p> <b><b>- Featured </b>apps:</b> <a href="https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international&amp;hl=en_US&amp;gl=US"
+
+                      target="_blank">REMINI</a> and <a href="https://apps.apple.com/cn/app/%E4%BD%A0%E6%88%91%E5%BD%93%E5%B9%B4-%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E5%8F%98%E9%AB%98%E6%B8%85-%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E8%A7%86%E9%A2%91%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA/id1461690800"
+
                       target="_blank">你我当年</a>, two photo editors with 10M+
                     users worldwide | <b> </b><span style="color: #337ab7;"></span>
                     <a href="https://runwayml.com/" target="_blank">RunwayML</a>,
                     a web-based video editor</p>
                   <p> </p>
-                  <b>- Media coverage:</b>&nbsp; <a href="http://www.news.cn/politics/2022-03/02/c_1128428941.htm"
+                  <b>- Media coverage:</b>&nbsp; <a href="http://www.news.cn/politics/2022-03/02/c_1128428941.htm"
+
                     target="_blank"><u>[新华社] 动动手，一起为春天中国“添彩” - 送您一支AI画笔,
-                      为祖国春天涂抹万千风情</u></a> |&nbsp; <a href="https://www.jiqizhixin.com/articles/2021-04-21-5"
+                      为祖国春天涂抹万千风情</u></a> |&nbsp; <a href="https://www.jiqizhixin.com/articles/2021-04-21-5"
+
                     target="_blank"><u>[机器之心] 有了这支矢量神经风格画笔，无需GAN也可生成精美绘画</u></a>
-                  | <a href="https://www.marktechpost.com/2020/11/22/stylized-neural-painter-an-image-to-painting-translation-method-that-generates-vivid-and-realistic-painting-artworks-with-controllable-styles/"
+                  | <a href="https://www.marktechpost.com/2020/11/22/stylized-neural-painter-an-image-to-painting-translation-method-that-generates-vivid-and-realistic-painting-artworks-with-controllable-styles/"
+
                     target="_blank"><u>[MarkTechPost] An Image-To-Painting
                       Translation Method That Generates Painting Artworks With
                       Controllable Styles</u></a>
@@ -436,7 +513,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-DAD.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
@@ -444,30 +522,36 @@
                     Tianyang Shi, Zhenwei Shi, and Jieping Ye. Deep Adversarial
                     Decomposition: A Unified Framework for Separating
                     Superimposed Images. <em>IEEE Conference on Computer Vision
-                      and Pattern Recognition (CVPR) 2020. </em><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.pdf"
-                      target="_blank">[PDF]</a><em></em> <a href="https://github.com/jiupinjia/Deep-adversarial-decomposition"
+                      and Pattern Recognition (CVPR) 2020. </em><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.pdf"
+
+                      target="_blank">[PDF]</a><em></em> <a href="https://github.com/jiupinjia/Deep-adversarial-decomposition"
+
                       target="_blank">[Github]</a></p>
                 </div>
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"><img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-inverseGANs.jpg"></div>
                 <div class="col-sm-9">
                   <p></p>
                   <p> <b>Zhengxia Zou</b> (*Corresponding author), Tianyang
                     Shi, Zhenwei Shi, and Jieping Ye. Adversarial Training for
                     Solving Inverse Problems in Image Processing. <i><em>IEEE
-                        Transactions on Image Processing, </em></i><em>2021. </em><a
+                        Transactions on Image Processing, </em></i><em>2021. </em><a
+
                       href="https://ieeexplore.ieee.org/document/9337199" target="_blank">[PDF]</a><em>
                     </em><a href="https://www.youtube.com/watch?v=3ZNinJUlXNc" target="_blank">[1min-DemoVideo]</a>
-                    <a href="https://github.com/jiupinjia/GANs-for-Inverse-Problems"
+                    <a href="https://github.com/jiupinjia/GANs-for-Inverse-Problems"
+
                       target="_blank">[Github]</a></p>
                 </div>
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-cloudgan.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
@@ -475,14 +559,17 @@
                     Tianyang Shi, Zhenwei Shi, and Jieping Ye. Generative
                     Adversarial Training for Weakly Supervised Cloud Matting. <i>IEEE
                       International Conference on Computer Vision (ICCV) 2019.</i>
-                    <a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html"
-                      target="_blank">[PDF]</a> <a href="https://github.com/jiupinjia/CloudMattingGAN"
+                    <a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html"
+
+                      target="_blank">[PDF]</a> <a href="https://github.com/jiupinjia/CloudMattingGAN"
+
                       target="_blank">[Github]</a></p>
                 </div>
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-RAM.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
@@ -496,7 +583,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-SVDNet.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
@@ -509,7 +597,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-RSCaption.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
@@ -523,7 +612,8 @@
               </div>
               <br>
               <div class="row">
-                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+                <div class="col-sm-3"> <img class="img-thumbnail" style="width:100%"
+
                     src="zzx_gallery/thumb-HCEM.jpg"> </div>
                 <div class="col-sm-9">
                   <p></p>
@@ -547,15 +637,42 @@
               <div class="panel-heading"><b>Guest Editor</b> </div>
               <div class="panel-body">
                 <ul>
-                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/pattern_recognition_image_processing_II"
+                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/pattern_recognition_image_processing_II"
+
                       target="_blank">Pattern Recognition and Image Processing
                       for Remote Sensing II</a>". Deadline for manuscript
                     submissions: 31 Oct 2022.</li>
-                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/RS_Image_Quality_Improvement"
+                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/RS_Image_Quality_Improvement"
+
                       target="_blank">Advanced Learning Techniques for Remote
                       Sensing Image Quality Improvement</a>". Deadline for
                     manuscript submissions: 31 August 2022.</li>
-                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/CIALT_RS"
+                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/CIALT_RS"
+
+                      target="_blank">Computational Intelligence and Advanced
+                      Learning Techniques in Remote Sensing</a>". Deadline for
+                    manuscript submissions: closed (31 July 2021).</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+                    <div class="container">
+            <div class="panel panel-default">
+              <div class="panel-heading"><b>Guest Editor</b> </div>
+              <div class="panel-body">
+                <ul>
+                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/pattern_recognition_image_processing_II"
+
+                      target="_blank">Pattern Recognition and Image Processing
+                      for Remote Sensing II</a>". Deadline for manuscript
+                    submissions: 31 Oct 2022.</li>
+                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/RS_Image_Quality_Improvement"
+
+                      target="_blank">Advanced Learning Techniques for Remote
+                      Sensing Image Quality Improvement</a>". Deadline for
+                    manuscript submissions: 31 August 2022.</li>
+                  <li>Remote Sensing (IF=4.848) Special Issue: "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/CIALT_RS"
+
                       target="_blank">Computational Intelligence and Advanced
                       Learning Techniques in Remote Sensing</a>". Deadline for
                     manuscript submissions: closed (31 July 2021).</li>
@@ -636,8 +753,10 @@
               <div class="panel-heading"><b>Summer Exchange</b> </div>
               <div class="panel-body">
                 <ul>
-                  <li>I was a summer exchange student at the <a href="https://www.cam.ac.uk/"
-                      target="_blank">University of Cambridge</a> and the <a href="http://www.ox.ac.uk/"
+                  <li>I was a summer exchange student at the <a href="https://www.cam.ac.uk/"
+
+                      target="_blank">University of Cambridge</a> and the <a href="http://www.ox.ac.uk/"
+
                       target="_blank">University of Oxford</a>, U.K., in Jul
                     2017.</li>
                 </ul>
