@@ -116,7 +116,7 @@
                 <ul>
                   <li><i>50+ peer-reviewed publications, including 30+ top-tier
                       journals and conferences ( Nature, Nat. Commun., Proc
-                      IEEE, TPAMI, TIP, CVPR, ICCV, AAAI, ICRA, ... )&nbsp; </i></li>
+                      IEEE, TPAMI, TIP, CVPR, ICCV, AAAI, ... )&nbsp; </i></li>
                   <li><i><i>3000+ Google Scholar citations, </i>4000+ GitHub
                       Stars/Forks </i></li>
                   <li><i> Two papers selected in PaperWithCode "Top-10 Trending
@@ -204,17 +204,27 @@
                     (+equal contribution), Shuo Feng, Haojie Zhu, Haowei Sun,
                     Henry X. Liu* (*Corresponding author)<strong></strong>.
                     Learning Naturalistic Driving Environment with Statistical
-                    Realism. <i><i>Nature Communications, 2023</i>. </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
+                    Realism. <i><i>Nature Communications, 2023</i>. </i>Featured
+                    in <a target="_blank" href="https://www.nature.com/collections/hjhbgijcei">Editors'
+                      Highlights</a>.<i> </i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9197693"
                       target="_blank">[PDF]</a><em> </em><a href="https://github.com/michigan-traffic-lab/Learning-Naturalistic-Driving-Environment"
                       target="_blank">[Github]</a>&nbsp;<i> </i></p>
                   <p>We develop NeuralNDE, a Transformer-based framework to
-                    learn multi-agent interaction behavior from vehicle
-                    trajectory data, and propose a conflict critic model and a
-                    safety mapping network to refine the generation process of
-                    safety-critical events, following real-world occurring
-                    frequencies and patterns. NeuralNDE can achieve both
-                    accurate safety-critical and normal driving statistics.</p>
+                    learn multi-agent interaction behavior from real-world
+                    vehicle trajectory data. NeuralNDE can achieve both accurate
+                    safety-critical and normal driving statistics.</p>
                   <p> </p>
+                  <p></p>
+                  <b>- Media coverage:&nbsp; </b><a href="https://www.eurekalert.org/news-releases/987857"
+                    target="_blank"><u>[EurekAlert]</u></a> <a href="https://techxplore.com/news/2023-05-world-realistic-simulated-environment-based.html"
+                    target="_blank"><u>[TechXplore]</u></a> <a href="https://news.umich.edu/worlds-first-realistic-simulated-driving-environment-based-on-crash-prone-michigan-intersection/"
+                    target="_blank"><u>[Michigan News] World’s first realistic
+                      simulated driving environment based on ‘crash-prone’
+                      Michigan intersection.</u></a> | <a href="https://www.sohu.com/a/674403685_610300"
+                    target="_blank"><u>[量子位]
+                      自动驾驶仿真系统登Nature子刊，准确建模事故率事故类型，全华人团队打造</u></a> | <a href="https://www.mittrchina.com/news/detail/11938"
+                    target="_blank"><u>[MIT科技评论]
+                      密西根大学团队开发高精度自然驾驶仿真算法，为自动驾驶开发提供仿真基础</u></a>
                   <p></p>
                 </div>
               </div>
@@ -270,6 +280,9 @@
                     </i><a href="https://arxiv.org/abs/2303.01311" target="_blank">[PDF]</a>
                   </p>
                   <p> </p>
+                  <b>- Featured apps:</b> Justice Mobile (The first plausible
+                  solution for text-driven game characters auto-creation.).
+                  <p></p>
                   <p> </p>
                   <b>- Media coverage:</b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/"
                     target="_blank"><u>[New Scientist (新科学人)] Character creator
