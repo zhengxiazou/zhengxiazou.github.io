@@ -1,50 +1,43 @@
+<!doctype html>
 <html lang="en">
-  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script type="text/javascript" async="" src="./analytics.js"></script><script type="text/javascript" async="" src="./js"></script><script async="" src="./js(1)"></script>
-    <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-168911195-1');
-</script> <title>Zhengxia Zou, Ph.D.</title>
-    <title>Bootstrap Example</title>
+  <head>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./bootstrap.min.css">
-    <script src="./jquery-3.3.1.min.js"></script>
-    <script src="./bootstrap.min.js"></script>
-    <style type="text/css">
-		.bgimg {
-    background-image: url("zzx_gallery/logo.png");
-    background-repeat: no-repeat;
-    background-position: center; 
-    position: relative;
-		}
-		</style>
+    <meta name="description" content="Zhengxia Zou is a professor at Beihang University working on computer vision, remote sensing, and autonomous driving.">
+    <meta name="theme-color" content="#0b1f33">
+    <title>Zhengxia Zou — Professor, Beihang University</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./site.js" defer></script>
   </head>
   <body>
-<style>body{margin:0;padding:0;}</style>
-    <div class="container bgimg" style="min-height:120px;background-size:contain;background-position:left center;">
-      <div class="container">
-        <nav class="nav nav-tabs">
+    <a class="skip-link" href="#me">Skip to content</a>
+    <div class="site-shell">
+      <div class="container nav-wrap">
+        <a class="wordmark" href="#me" aria-label="Zhengxia Zou — home">
+          <span class="wordmark-mark" aria-hidden="true">ZZ</span>
+          <span>Zhengxia Zou</span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-navigation">Menu</button>
+        <nav aria-label="Primary navigation">
+        <ul class="nav nav-tabs" id="site-navigation">
           <li><a href="#me">About</a></li>
-          <li><a href="#Research">Research</a></li>
-          <li><a href="#Publications">Publication</a></li>
-          <li><a href="#Activities">Misc</a></li>
+          <li><a href="#Research">Selected work</a></li>
+          <li><a href="#Publications">Publications</a></li>
+          <li><a href="#Activities">Teaching &amp; service</a></li>
+        </ul>
         </nav>
       </div>
-      <div class="container">
+      <main>
+      <div class="container hero">
         <div class="page-header">
-          <h2 id="me">Zhengxia Zou, Ph.D.</h2>
+          <h1 id="me">Zhengxia Zou <span>邹征夏</span></h1>
+          <p class="role">Professor, School of Astronautics<br>Beihang University</p>
         </div>
-      </div>
-      <div class="container">
         <div class="row">
-          <div class="col-sm-4"> <img class="img-responsive img-rounded" style="width:100%"
-              src="zzx_gallery/zzx.jpg"> </div>
-          <div class="col-sm-8">
+          <div class="col-sm-4 portrait-wrap"> <img class="img-responsive img-rounded portrait"
+              src="zzx_gallery/zzx.jpg" alt="Portrait of Zhengxia Zou" width="482" height="640"> </div>
+          <div class="col-sm-8 hero-copy">
             <p></p>
             I am currently a Professor at the School of Astronautics, <a href="https://www.buaa.edu.cn/"
               target="_blank">Beihang University</a>. I received my Ph.D. and
@@ -57,13 +50,14 @@
               Henry Liu</a>. I study deep learning, computer vision, and related problems in
             remote sensing and autonomous driving.
             <p></p>
-            Email: zhengxiazou [at] gmail [dot] com; zhengxiazou [at] buaa [dot]
-            edu [dot] cn
+            <span class="contact-label">Email</span> zhengxiazou [at] gmail [dot] com<br>
+            <span class="contact-label">Academic</span> zhengxiazou [at] buaa [dot] edu [dot] cn
             <p></p>
-            <a href="https://shi.buaa.edu.cn/zouzhengxia" target="_blank">[中文主页]</a>
-            | <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;hl=en"
-              target="_blank">[Google Scholar Profile]</a> | <a href="https://github.com/jiupinjia"
-              target="_blank">[Github Profile]</a><br>
+            <div class="profile-links"><a href="https://shi.buaa.edu.cn/zouzhengxia" target="_blank" rel="noopener">中文主页</a>
+            <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;hl=en"
+              target="_blank" rel="noopener">Google Scholar</a><a href="https://github.com/jiupinjia"
+              target="_blank" rel="noopener">GitHub</a></div>
+            <div class="news" aria-labelledby="news-title"><h2 id="news-title">Latest</h2>
             <p></p>
             <p>NEW (08/2025): I will be serving as an Associate Editor of IEEE Transactions on Geoscience and Remote Sensing.</p>
             <p>NEW (06/2025): My <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;hl=en"
@@ -93,13 +87,14 @@
               target="_blank">New Scientist (新科学人)</a>).</p>
             <p>NEW (01/2023): Our survey paper on object detection got accepted
               by Proceedings of the IEEE.</p>
-            <p> </p>
+            </div>
           </div>
         </div>
       </div>
         <div class="container">
           <div class="page-header">
-            <h2 id="Research">Selected Publication</h2>
+            <p class="section-kicker">Research highlights</p>
+            <h2 id="Research">Selected publications</h2>
           </div>
         </div>
         <div class="container">
@@ -128,7 +123,7 @@
                     target="_blank"><u>[PIEEE] Proceedings of the IEEE Paper Explores Object Detection's Evolution and Future Directions</u></a>&nbsp;|
                   <a href="https://www.zhuanzhi.ai/document/50b8a2fec4a9ad5561b8694d16a1dffb"
                     target="_blank"><u>[专知] 密歇根大学40页最新论文带你全面了解目标检测</u></a>&nbsp;</p>
-                  <p><b>- In other languages:</b>&nbsp <a href="https://ai.yanxishe.com/page/postDetail/14275"
+                  <p><b>- In other languages:</b>&nbsp; <a href="https://ai.yanxishe.com/page/postDetail/14275"
                     target="_blank"><u>English-to-Chinese (1)</u></a> |&nbsp; <a
                     href="https://blog.csdn.net/clover_my/article/details/92794719"
                     target="_blank"><u>English-to-Chinese (2)</u></a>&nbsp;</p>
@@ -316,16 +311,17 @@
         </div>
           <div class="container">
             <div class="page-header">
-              <h2 id="Publications">Publication</h2>
+              <p class="section-kicker">Research record</p>
+              <h2 id="Publications">Publications</h2>
             </div>
           </div>
           <div class="container">
             <div class="panel panel-default">
-              <div class="panel-heading"><b>For my full publication list, please go to my <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;amp;hl=en"
+              <div class="panel-heading"><b>For my full publication list, please go to my <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ&amp;hl=en"
                   target="_blank">google scholar profile</a></b></div>
               <div class="panel-body">
                 <ul>
-                  <li>Chuyu Zhong, Keyan Chen, Qinzhe Yang, Bowen Chen, <b>Zhengxia Zou</b>, and Zhenwei Shi. 
+                  <li>Chuyu Zhong, Keyan Chen, Qinzhe Yang, Bowen Chen, <b>Zhengxia Zou</b>, and Zhenwei Shi.
                     SFR-Net: Learning Scale-Frustum Representations for Ultra-Wide Area Remote Sensing Image Segmentation.
                     <i>IEEE Transactions on Geoscience and Remote Sensing.</i> 2026.</li>
                   <br>
@@ -742,7 +738,8 @@
           <br>
           <div class="container">
             <div class="page-header">
-              <h2 id="Activities">Teaching and Academic Activities</h2>
+              <p class="section-kicker">Academic community</p>
+              <h2 id="Activities">Teaching &amp; service</h2>
             </div>
           </div>
           <div class="container">
@@ -892,12 +889,11 @@
           <div class="container">
             <p> </p>
             <br>
-            <div style="text-align: center;"><i>Copyright (C) 2025 By Zhengxia Zou.</i></div>
+            <div class="footer"><span>© <span id="current-year">2026</span> Zhengxia Zou.</span><a href="#me">Back to top ↑</a></div>
             <br>
             <p> </p>
           </div>
-        </div>
-        <b> </b> </div>
+      </main>
     </div>
   </body>
 </html>
